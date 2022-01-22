@@ -1,5 +1,0 @@
-stHP xx Orochi
-
-- stHP é -5, dependendo da versão do command dash, a vantagem varia de 5 até 7
-  - Balrog conseguiria apenas fazer 4f
-  - Porém com VT ativado, o command grab poderia pegar
