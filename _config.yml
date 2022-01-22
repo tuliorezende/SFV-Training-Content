@@ -2,5 +2,6 @@ theme: jekyll-theme-hacker
 title: SFV Training Content
 tagline: Exibir algumas coisas básicas sobre os personagens de SFV que podem ser úteis.
 description: Exibir algumas coisas básicas sobre os personagens de SFV que podem ser úteis.
+logo: /assets/sfvce-logo.png
 plugins:
   - jekyll-seo-tag
