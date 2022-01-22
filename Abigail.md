@@ -1,8 +1,8 @@
 # Abigail
-Video para mostrar os [movimentos do Abigail](https://youtu.be/z5wgH-aKwBo) 
+Video para mostrar os [movimentos do Abigail](https://youtu.be/z5wgH-aKwBo){:target="_blank"} 
 
 ### Observações
-- A framedata abaixo está de acordo com o [FAT](https://fullmeter.com/fatonline/#/framedata/SFV/Abigail)
+- A framedata abaixo está de acordo com o [FAT](https://fullmeter.com/fatonline/#/framedata/SFV/Abigail){:target="_blank"}
 - Apesar dos movimento serem negativos, é importante ter em mente que nem todos os personagens irão punir, então vale o treino de acordo com o personagem utilizado.
 
 # Moves Negativos
