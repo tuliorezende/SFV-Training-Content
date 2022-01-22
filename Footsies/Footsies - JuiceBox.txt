@@ -1,0 +1,66 @@
+Footsies - JuiceBox
+
+"Nos dois estamos de pé, os dois personagens. nós dois. Ambos vão andar e pular tentando algumas coisas para tentar sair de uma situação neutra para situação vantajosa"
+
+usar normais no chão: 2 maneiras (sfiv -> da pra usar no 5 tb?)
+- whiff punishment: alguém usa um normal, vc também usa para dar dano
+	* NÃO É UMA REAÇÃO PURA E SIMPLES (essa ideia : ex Daigo: Daigo não ve que o oponente errou o botão e vai usar um para punir
+	* se o adversário anda pra frente, ele vai tentar realizar alguma ação (a mais comum dele: ex do video: stMK do bison no sfiv)
+	* para realizar a punição, é preciso estar fora do range
+	* seu botão precisa sair depois do adversario (meus excessos de whiff fazendo eu tomar muitos CC)
+	* abaixado, sua hurtbox é maior
+	*DUVIDA*: Como realizar esses ajustes em personagens que tem um walk relativamente grande? (No video ele cita que eu precisaria estar andando para trás antes do adversário andar pra frente)
+	* abaixar pode fazer com que o personagem defenda caso tente realizar o whiff punishment
+	* posicionamento deve ser preciso
+	* "Estou prevendo o normal X, então vou ajustar meu espaçamento a uma certa distancia e ja sei que normal eu estou esperando"
+	* Deve-se estar pronto para utilizar as techs independente de quem for jogar contra, por mais que o adversário não faça
+	* preciso estar aplicando whiff punishment antes dele ocorrer
+	* TEORIA DA LINHA 
+	* Conta com elemento de reação, spacing é uma porção maior do processo e previsão é a maior parte (além da execução)
+	* PRATICAR TODO O PROCESSO (não adianta conseguir apenas o whiff punish, se não estou pronto, e com a ideia em mente
+	* Andar para trás para espaçar antes do adversario andar pra frente
+	* Não jogar o jogo neutro toda vez (Arriscando) --> Neutro Gourmet
+	* JOGAR CONTRA O OPONENTE AO INVÉS DO MEU JOGO
+	* Walk, Walk, Walk, para o oponente não conseguir realizar whiffs (straights whiffados podem se tornar apenas walks - parar de passear de special)
+	* Andar é demover o oponente da ideia de tentar jogar pelo whiff
+	* in/out do range dos pokes do oponente, de modo que eu o force a whiffar botões
+	* Se o oponente ficar com medo de sofrer um whiff punish, ande para frente, para entrar no range de poke (force-o a pokear)
+	* MIND GAMES IN NEUTRAL GAME: vc precisa saber para que seus normais ruins servem!
+	* botões ruins podem servir para counter poke
+	* Só se pensa em usar footies, quando encontra uma boa qtde de players que utilizam do mesmo
+	* walk foward se o oponente andar pra tras
+	* andar pra tras se o opoonente walk foward
+	* Procurar por coisas que você normalmente não procuraria nos replays
+
+- XPTO
+	Começa com uma previsão (torcer para o oponente utilziar o normal X e deixar meu hit lá [counter])
+	se eu sei que ele vai andar pra frente, pq não fazer algo unsafe, que o oponente talvez não esteja esperando?
+	iria funcionar com oponentes highlevel
+	mesmo unsafe, pode-se tentar o risco (oponentes já terão todos os spacings onpoint contra ti)
+	
+Aspecto do footsies: visualizar situação antes de acontecer para pensar nas possibilidades para elas
+
+https://youtu.be/ZVrxin4OYuE?t=1609
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Zaferino Tips
+
+https://youtu.be/vzk-EDiBv9g
+
+Spacing: Begginers
+Exercise:	Utilizar os quadrados menores do training com o stand dummy para saber quando o hit pega e quando whiffa (notação de squares)
+
+Spacing: Intermediate
+Exercise: gravar um dummy (akuma, sakura por exemplo) no seguinte cenário (crounch, backdash e walk back infinito). Tentar seguir o boneco e acertar o botão que quero saber a distancia
+
+Spacing: Advanced
+Exercise: posicionar o personagem na range do botão que quero punir e encontrar a melhor maneira de fazer isso
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aspectos de treino: https://youtu.be/3S7aqCeVBok
+
+-----------------------------------------------------------------
+
+QUER IMPEDIR ALGUEM DE FICAR USANDO POKES: WHIFF PUNISH É A resposta
+SE O OPONENTE FICAR COM MEDO DO SEU WHIFF PUNISH: ANDE PARA FRENTE PARA FORÇA-LO A POKEAR
+A PARTIR DESSE POKE, AJUSTES DE ESPAÇAMENTO DITAM OS FOOTSIES

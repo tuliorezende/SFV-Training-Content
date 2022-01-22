@@ -1,0 +1,140 @@
+https://www.youtube.com/watch?v=C8tyMlfFhk8
+4:01
+
+stLK 
+comba com target combo
+em Counter: stLK + stlP - dash straight light
+
+
+
+crLK
+comba com target combo (cr + stlk, stmk + sthk)
+
+stLP
+cancela em dash straight fraco, dash ex, dash low ex
+
+crLP
+
+cancela em exDP e staight medio
+cancela em agarrão
+
+-----------------------
+
+stMK
+bom em alguns whiff punish
+interessante combar com light buttons pra manter distancia
+
+---------------------
+ 
+ Balrog Confirm
+ 
+ lights
+ 
+ CR.LP, (ST.LK, MK, HK) Target Combo
+ ST.LP, (ST.LK, MK, HK) Target Combo
+
+ CR.LK, (ST.LK, MK, HK) Target Combo  
+ 
+ ST.LP, L DASH STRAIGHT OU EX OU EX LOW
+ 
+ CR.LP, CR.LP DASH STRAIGHT
+ 
+ CR.LP, CR.LK, ST.LP, L DASH STRAIGHT OU EX OU EX LOW
+ CR.LP, CR.LP, ST.LP, L DASH STRAIGHT OU EX OU EX LOW
+ 
+ mediums
+ 
+ ST.MK, ST.MP (TARGET COMBO), VSKILL, P OU K
+ ST.MK, DELAYED ST.MP, STRAIGHT OR LOW (TODOS PEGAM)
+ ST.MK, ST.LP, EX LOW TO CONTINUE PRESS
+ 
+ ST.MK, (ST.LK, MK, HK) Target Combo
+ 
+ ST.MK, CR. LP, EX STRAIGHT
+ 
+ CR.MP, CR.LP, EX STRAIGHT OU LOW
+ 
+ CR.MP, CR.LP, (ST.LK, MK, HK) Target Combo
+ 
+ CR.MP, CR.LP, EX STRAIGHT, XX (CANCEL) VSKILL, (ST.LK, MK, HK) Target Combo
+ 
+ Heavies
+ 
+ ST.HK, (ST.MK ST.MP - TARGET), XX P OU K
+ ST.HK, CR.MP, EX STRAIGHT OU LOW
+ 
+ CR.HP, DP.HK, STRAIGHT( LIGHT OU EX PODENDO CANCELAR EM VSKILL 1)
+ 
+--------------------------
+Resets de VS1 no VT1
+Vs+k = overhead (crLP, stMP)
+Vs+p = termina e permite mixup
+
+1 - Vs+p, crlp, crlp xx l.straight
+2 - Vs+p, crlp, stmk, stlp xx l.straight
+3 - Vs+p, stMP, stLP xx l.straight
+4 - Vs+p, crLP(counter), crMP xx l.low
+5 - Vs+p, stLP(counter), crMP xx l.low
+
+Throw wins agains 3f
+perto de stunar, usar throw pra resetar scale
+
+6 - vs+p, st.mk, stMP xx m.straight
+7 - vs+p, crMP, stMP xx m.straight
+
+na defesa, podemos usar dash low pra tentar quebrar defesa
+------------------------
+
+https://youtu.be/3hLqEVY3KTw?t=166 (Video de Maximum Charge pra uso de Pad - Nightmare Effect)
+
+https://www.youtube.com/watch?v=MnBvD28GlRg (OneTimeHero, alguns okies e meaties)
+
+Video de buffer de DP as Rog (https://www.youtube.com/watch?v=eaxAvoSiBn0)
+
+Video de Dashes: https://www.youtube.com/watch?v=wS3UtO9TuIo
+
+Video de Treinos de defesa de cross (https://www.youtube.com/watch?v=l1DndUrIVCc)
+
+Video de corner pressure - https://www.youtube.com/watch?v=1Jqf74gOoYI
+
+APRENDER MATCH DE M.BISON
+
+https://twitter.com/i/events/1322980852654133249: Thread do Nero the Boxer sobre setups
+https://www.youtube.com/playlist?list=PL4C7W8S85gdjQWBITh7hYnywEtuOP4KLN - playlist de matchup knowledge do nightmare effect
+
+https://www.youtube.com/watch?v=UrlbwvICXaA - Mixups com o VT1
+https://youtu.be/UrlbwvICXaA?t=156 - começo do primeiro combo (vskill + P e se pegar counter, continua)
+https://youtu.be/UrlbwvICXaA?t=292 - começo do segundo combo (buffer de dash low no jab)
+
+https://www.youtube.com/watch?v=vzk-EDiBv9g&t=5728s - movimentação
+
+https://www.youtube.com/watch?v=rZj_CYKYVqQ - ver playstyle
+https://youtu.be/_zbDtNdCx30
+
+https://www.youtube.com/watch?v=vwxxz3zbsFQ - Shimmy - Nightmare
+
+marcelorj - rog lento
+JORJAO_TRATOR - rog loco
+
+Setup de reset de VT1
+rekka (até 2 ou 3) > vskill+p > stLP > stMP > ex straight com follow de chute
+
+(https://www.youtube.com/watch?v=2kTUMBczWeU) (https://www.youtube.com/watch?v=oSXQ_NY0_Lw&list=PLlRTv3vuDUTGe3RufXdEd5qZUnt1OtVbO&index=2) - Safe setups de VT1 de Rog
+
+https://www.youtube.com/watch?v=XidNcxruTaE - Breakdown do setup do Brian_F para vencer trades e busca de informação
+
+https://twitter.com/NightMareEffec/status/1436132823048638465 - Resets de Scaling no stun
+
+https://youtu.be/HMthWjkCG0M?t=190 - Setup de Shimmy (JpHK > stHK > stMK > heavy straight)
+
+https://www.youtube.com/watch?v=IQmaKRKNef8 - Meaties - By Nero
+
+Safe Jump depois de V-Reversal: https://youtu.be/wiHgsM2wJE0 (V-reversal jump pra frente e HK)
+
+
+Lixeirinhas de Balrog: https://youtu.be/ueFQNP7Y3jk
+
+Don't know if this is new tech or old, but we've got a safe jump in the corner on slow ex dp characters (Urien, Falke e Ed)
+Crouch HP xx HK Upper > EX Straight (let it rip) > Neutral Jump > HK
+if they EX DP we can block it, they wake up buttons it gets hit, they block we're + and close enough for a throw, only character I still need to test is falke
+scratch that just on Ed

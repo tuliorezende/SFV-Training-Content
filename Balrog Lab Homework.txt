@@ -1,0 +1,287 @@
+Balrog Lab Homework: DISCLAIMER: I know this is a lot of work but trust me, you'll see results if you stick to it and finish it all the way through.  It's even good practice to go back every once in a while and brush up on things when you're in training.  Practice makes perfect.  I hope you like reading.  I apologize for how wordy I can be.
+
+--Also obviously nobody expects this work to all get done in a day, just keep it as a checklist of things to work on over time in the lab.  These are also in no specific order of importance.  Start with the ones you're lacking in most and work from there, you don't have to do them in the specific order I listed them in.
+
+---Also also these lessons require basic knowledge of how to use the recording features in Training Mode.  If you're confused on how to set something up, just ask me or somebody else.
+
+As an extra resource, the Balrog discord can be found in the link below if you haven't already joined.  I reference it a few times in this notepad as a place to look for things.
+
+https://discord.gg/U94gufh
+
+I have been working on a youtube series covering most of what's covered in this text file.  Here's the playlist:
+
+https://www.youtube.com/playlist?list=PLhsYAAzxzd_YoDcNLbzaGeRevf-FKoiPB
+
+================================
+___________ANTI AIRS____________
+--------------------------------
+Resource: https://youtu.be/GpcNA1CqUS4?list=PLhsYAAzxzd_YoDcNLbzaGeRevf-FKoiPB
+
+  This is one of the most basic and yet vital things you need to learn with Balrog.  Get Ryu as a dummy.  Set him to recording, and record one of him bobbing back and forth and then have him throw out a hadouken.  Record another recording of him bobbing back and forth like he was before but then doing an f jump into medium kick, make sure you time it right so it connects at the right time.  You can actually use this to practice doing v skills through his hadoukens as well, but it's more just to give you something to deal with outside of his jumping to keep you on your toes.  Any time Ryu forward jumps be ready with a stMP.  While he's walking back and forth you can also find the right positioning to be so that when he jumps he'll run square into your stMP.  In real situations this is what you wanna do; staying the perfect distance at all times so if they jump you're ready.  Once you get the stMP consistently without failing at all in between then you can move on.  Try it out with Balrog's crHP as well using the same methods to get a feel for how that works.  And if you want to make it a little more challenging, set more random recordings of typical things a player would do such as whiffing lights to try and check your dash ins, walking up to pressure you, etc.
+
+
+=========================
+________SPACING__________
+-------------------------
+Resource : https://youtu.be/yCQCylJ0nh0?list=PLhsYAAzxzd_YoDcNLbzaGeRevf-FKoiPB
+
+  Spacing Balrog's specials is key to neutral.  Set a Balrog dummy to mash stLP after block, practice using LP straights to where when he blocks it he can't punish you with his LP, get it consistently (I'd say at least 10 times in a row), then repeat for v-skill+p, then repeat for LK low, then start practicing MP straight, then MK low, then HP straight and finally HK low.  HP straight and HK low are hard to space and the mediums can be hard too but the light ones and v-skill punches you definitely need to get down so people can't call you on them.
+
+=============================================
+_______OPTIMAL COMBOS/BREAD N BUTTERS________
+---------------------------------------------
+Resource: https://youtu.be/G0v0ur5hTG0?list=PLhsYAAzxzd_YoDcNLbzaGeRevf-FKoiPB
+
+  So you may know what's punishable, but you absolutely need to have a good variety of combos down to convert from these punishes into massive damage.  Very helpful video right here goes into some good combos for Balrog.  Remember too you can always experiment and see what works and what doesn't work to add more combos to your arsenal.  Practice each of these combos 10 times in a row without fail.  If you drop the combo at any point, start the count back at 0.  Once you get it done 10 times move to the next combo.  Practice these on both sides.
+
+Here is also a good list of bread and butters to start with and branch off from there:
+--------
+Lights:
+(crLP, crLK, or stLP), LK-MK-HK target combo
+(crLP, crLK or stLP), stLP xx (LP or EX) straight
+(crLP, crLK or stLP), crLP xx MP straight
+
+[counterhit only]
+(crLP, crLK, or stLP), stMK xx HP straight/HK low
+(crLP, crLK, or stLP), crMP xx MP straight/MK low
+(crLP, crLK, or stLP), MK-MP-vskill+p target combo
+
+---------
+Mediums:
+stMK, stLP xx (LP or EX) straight
+stMK, crLP xx MP straight
+stMK, stMP xx MP straight
+stMK, stMP xx MK low
+stMK xx HP straight
+stMK xx HK low
+crMP xx MP straight
+crMP xx MK low
+
+[counterhit only]
+(crMP or stMK), stMK xx HP straight/HK low
+(crMP or stMK), crMP xx MP straight/MK low
+crMK, stLP xx LP/EX straight/EX low
+crMK, LK-MK-HK target combo
+
+---------
+Heavies:
+crHP xx HK upper, LP straight
+crHP xx HK upper, EX straight [v-skill+p, EX straight]
+crHP xx HK upper, EX low (best in corner)
+stHK, MK-MP-v-skill+p target
+stHK, MK xx HP straight
+stHK, MK xx HK low
+stHK, crMP xx MP straight
+stHK, crMP xx MK low
+
+[crush counter only]
+crHP, HK upper, MP straight
+crHP, HK upper, EX straight [v-skill+p, EX straight]
+crHP, TAP, MP straight
+crHP, TAP, EX straight [v-skill+p, EX straight]
+crHP, LK low xx v-skill+p, EX straight [v-skill+p, EX straight]
+stHK, HK upper, LP straight
+stHK, HK upper, EX straight [v-skill+p, EX straight]
+stHK, HP straight
+stHK, LP straight xx v-skill+p
+crHK, f dash, v-skill+k, stLP (meaty setup)
+
+---------------
+V-skill Combos:
+v-skill+k, stMP xx MP/EX straight (close range)
+v-skill+k, stMP xx MK/EX low (close range)
+v-skill+k, stLP xx (LP or EX) straight/ EX low
+
+[counterhit only]
+v-skill+p, stLP xx (LP or EX) straight/ EX low
+v-skill+k, stMK xx HP straight/HK low
+v-skill+k, crMP xx MP straight/MK low
+
+------------
+VT1 Combos:
+[Any special cancellable normal] xx EX low, fK, v-skill+p, EX straight, fK, fK
+LK/MK/HK low, fK/fP [up to 2 fK's], v-skill+p, EX straight, fK, fK
+LP/MP/HP straight, fK [up to 2], v-skill+p, EX straight, fK, fK (opponent has to be grounded)
+LP/MP/HP straight, fP [up to 3], v-skill+p (leaves you at +2 in their face, grounded opponent)
+LP/MP/HP straight, fP/fK, v-skill+p, EX straight (if the straight catches opponent in the air)
+
+------------
+VT2 Combos:
+crHP xx B3
+stMK xx B3
+cr/stLP xx B3
+v-skill+k, stMP xx B3
+
+[counterhit-only]
+v-skill+k, stMK xx B3
+crLP, stMK xx B3 (up close)
+crMP, stMK xx B3 (up close)
+stMK, stMK xx B3 (up close)
+
+--NOTE:  Season 3 Balrog has changed slightly.  stHK CC combos are not the same as they used to be, and crMK>MK target v trigger cancel no longer gives you crHP as an option.  If you come across combos like that in old videos, just ignore them.
+https://youtu.be/xgXQCotCxv4
+
+==========================
+_______FRAMETRAPS_________
+--------------------------
+Resource : https://youtu.be/OCqFcMYnc3c?list=PLhsYAAzxzd_YoDcNLbzaGeRevf-FKoiPB
+
+  Frametraps are essential.  Set a Balrog dummy to mash stLK after block and start experimenting with Balrog's normals into other normals and see what hits him and what lets him hit you.  If you hit him after block that means it's a true frametrap that beats 3F jabs.  If he hits you it's not a true 3F frametrap.  You can also set Balrog to do stLP on block instead of stLK to simulate 4F jabs, some characters don't have 3Fs and you can get better frame traps on them (like crMP, crMP for instance or stMK, stMK or stMK, crMP).  For a good list on some typical frametraps, check #resources because rass posted some if you scroll up a bit you can find it.  Work on this until you can consistently get frametraps off.  Also, below I've compiled a list of simple frametraps from each normal that you can use, the ones that beat 3f jabs and the ones that beat 4f jabs.  There is also a list of 5+ frame gap frametraps that you should use at your disgression.  Often times if the opponent is respecting enough on your positive moves, you can get away with fake frametraps to maintain pressure and essentially steal turns.  In this list I just focused on two-input frametraps.  Note there are also a wide variety of frametraps with V trigger cancelled moves on block.  You can experiment with frametraps either in-game with trial and error or you can count the frame gaps and see if it's a 3 or 4 frame gap or less that way by subtracting the advantage on block from the startup of the move you want to frametrap with (i.e. stLP is +3 on block; stLP is 4f startup; 4 - 3 = 1; so stLP, stLP leaves a 1f gap
+
+Balrog's frame data can be found here:
+https://fullmeter.com/fatonline/#/framedata/Balrog
+
+-----------------------
+3 frame frametraps
+-----------------------
+stLP, stLK 	(0f gap, true blockstring)
+stLP, stLP 	(1f gap)
+stLP, crLP 	(1f gap)
+stLP, crLK 	(1f gap)
+stLP, stMP 	(2f gap)
+stLP, crMP 	(3f gap, medium priority over 3f lights)
+stLP, stMK 	(3f gap, medium priority)
+crLP, stLK 	(0f, blockstring)
+crLP, stLP 	(1f)
+crLP, crLP 	(1f)
+crLP, crLK 	(1f)
+crLP, stMP 	(2f)
+crLP, crMP 	(3f, medium priority)
+crLP, stMK 	(3f, medium priority)
+stLK, stLK 	(2f)
+crLK, stLK 	(2f)
+crMP, stLK	(1f)
+crMP, stLP	(2f)
+crMP, crLP	(2f)
+stMK, stLP 	(2f)
+stMK, stMP 	(3f, medium priority)
+stHK, stLK	(0f, blockstring)
+stHK, stLP	(1f)
+stHK, crLP	(1f)
+stHK, crMP 	(3f, medium priority)
+stHK, stMK 	(3f, medium priority)
+
+stLP/crLP/stMP/crMP/stMK/crHP xx EX straight (0f, blockstring)
+crMP xx MK low  (3f, medium priority)
+EX straight, stLK (2f)
+------------------------
+4 frame gap frametraps
+------------------------
+stLP, crMK
+crLP, crMK
+stLK, stLP
+stLK, crLP
+crLK, stLP
+crLK, crLP
+stMP, stLK
+crMP, crMP
+crMP, stMK
+stMK, crMP
+stMK, stMK
+stHK, crMK
+
+EX straight, stLP
+EX straight, crLP
+
+--------------------------------
+5+ frame gap (fake) frametraps
+--------------------------------
+stLK, crMP		(5f gap)
+stLK, stMK		(5f)
+stLK, stHK		(8f)
+crLK, crMP		(5f)
+crLK, stMK		(5f)
+crLK, stHK		(8f)
+stLP (tip range), crHK	(5f)
+stLP (tip range), stHP	(9f)
+crMP (tip range), stHP	(9f)
+stMK, crHP		(5f)
+stMK, stHK		(6f)
+stHK, stHK		(6f)
+
+EX straight, crMP	(5f)
+EX straight, stMK	(5f)
+
+=================================
+___________CONFIRMS______________
+---------------------------------
+
+Resource : https://youtu.be/f0lLAoaeBHs?list=PLhsYAAzxzd_YoDcNLbzaGeRevf-FKoiPB
+
+-------------------
+**Light Confirms**
+-------------------
+ Set the opponent to block after first hit.  If they are blocking mid link that means you failed the combo.  Simply practice doing stLP xx LP straight over and over to where it's completely ingrained in your muscle memory.  If you fail start over, try to get it consistently 20 times without fail, 10 times in a row on each side.  It may be a fairly high number to shoot for consistently but believe me it will pay off.  Then do crLK, LK, MK, HK target combo 20 times consistently, again 10 times on each side.  This one shouldn't be as hard.  Next practice doing crLK, stLP xx LP straight 20 times.  After this, do crLP xx MP straight.  It's a little tougher but still doable.  Then do crLK, crLP xx MP straight 20 times.  Then you can practice stLP xx LK screw smash, and then crLK, stLP xx LK screw smash.  Next work on V trigger cancels from lights.  After confirming an LP straight on hit you can V trigger cancel into stLP or crLP, and you can practice doing the same light combos as above from there.  After LK screw smash V trigger cancel you can do HK dash low into fK rekka v-skill+p, EX straight or you can cancel into HP straight, fK, fK, fK, fP xx CA.  After MP straight V trigger cancel you can do stMK xx HP straight into whatever from there.  After LK, MK target VTC you can do crHP xx HK screw smash into your typical bread and butters after that.  Be sure you stop at the MK, don't finish the target combo into HK or you'll lose optimal damage and pressure options.  Some more advanced light confirms are stLP, stMP xx MP straight; stLP, stMP xx MK low; and stLP, stMP xx MK screw smash; crLK, crLP, stLP xx LP straight; crLK, crLP, stLP xx LK screw smash (all these advanced ones must be done at close range)
+
+------------------------------------
+**Random Confirms and Conversions**
+------------------------------------
+ Set dummy's blocking to random to simulate when you get a confirm off, practice this until you can consistently get links off each time the dummy gets hit.  After you can get at least 10 confirms consistently then change gears and set them to block randomly and also set counterhit to random and watch for the yellow counterhit flag to show up on your character's side.  If it shows up, you can get counterhit combos instead such as LP, MK xx HP straight; crLP crMP xx MK dash low; stMK, stMK xx HP straight; crMP, crMP xx MK low, etc.
+
+=================================
+___OKI/MEATIES/WAKEUP OPTIONS____
+---------------------------------
+Part 1: https://youtu.be/W2A9-OBREqs?list=PLhsYAAzxzd_YoDcNLbzaGeRevf-FKoiPB
+Part 2: https://youtu.be/RVapZFuCrSE?list=PLhsYAAzxzd_YoDcNLbzaGeRevf-FKoiPB
+
+ This one's a little more complicated to practice because your oki is widely dependent on what knockdown you do.  Set a Necalli dummy to normal wakeup and have his wakeup recovery be mashing 3F jab.  Knock him down with any of your favorite knockdowns and practice options of what moves work to interrupt his jab.  If he jabs you it means it's not real oki.  After you find some things that work after certain knockdowns work on those and try to get them consistently without fail.  Then set him to back wakeup and practice oki setups for that.  Remember when Balrog knocks someone down he can typically get oki setups on backrise by doing things like LP/MP dash straight v-skill cancel into an attack for a meaty.  Practice that on his backrise and see what works with varying knockdowns.  Then do the same with delayed wakeup.  Main knockdowns to try practicing oki for: crHK; LK/MK/HK/EX dash lows, EX straight double; MK>MP>v-skill+p target combo; forward throw/back throw; LK/MK screw smash; LK>MK>HK target; HK screw smash, LP straight; HK screw smash, EX straight v-skill+p EX straight; and HK screw smash, MP straight (whiff).
+--If you're itching for more oki setups to try and figure out, stHP crush counter and crHK crush counter also are knockdowns that you can practice on as well.  Also, eventually try practicing oki setups in the corner, because you get much better meaty potential due to the proximity, and in some cases some meaties that work at midscreen don't work as well in the corner.  Setting Necalli to wake up with stLK will simulate characters waking up who only have a 4 frame jab, and that will open you up to more oki options specifically for them.  To go even a step further if you wish you can set the dummy to recover randomly, then practice setups based on what you see the opponent doing.  Rog has some catch-all solutions with oki (such as after crHK doing f dash, crMP, f dash, stHK if the crMP doesn't connect).  Test these at your leisure.  
+
+*Below I've included the majority of knockdowns along with normals and their frame data on whiff so that you can use them to fill in the frame gap to get the right advantage you want for meaties.  
+
+**An example of a meaty setup would be crHK CC, which leaves you at +71.  If you f-dash (17 frames) and v-skill+k (49 frames), that totals to 66 frames spent doing those two actions.  Then you subtract that total from the advantage you have on knockdown (71 - 66 = 5), so in this case it leaves you at +5.  Doing stLP at +5 on wakeup will hit on the second frame instead of the first, making it meaty.  It will be +4 on block instead of +3 and +6 on hit instead of +5 as well as +8 on counterhit instead of +7.  What does this mean?  It means if you do crHK CC, f dash, v-skill+k, stLP and the opponent wakes up mashing (they just saw you whiff an overhead right in their face so odds are they'll try to punish it), you can combo into crHP xx HK screw smash, LP straight for super good damage off of a light confirm.  Try it in training, thank me later.  There's way more meaty setups you can do, so play around with them to your liking and see what works.
+
+-----------
+Knockdowns:
+-----------
+(quickrise/backrise/no rise)
+MK>¡­v-skill+K target: +11/+16/+70
+Lk/mk/hk dash low: +20/+25/+69
+Cr.HK: +22/+27/+71
+EX dash low: +22/+27/+71
+LK screw: +28/+33/+87
+MK screw: +30/+35/+89
+LK target: +30/+35/+89
+EX screw: +31/+36/+90
+EX straight: +33/ +38/+92
+MK>¡­v-skill+P target: +35/+40/+94
+St.HP CC: +37/+42/+96
+HK screw: +38/+43/+97
+Cr.HP CC: +58/+63/+117
+Cr.HK CC: +71
+f throw: +16/+16/+65
+b throw: +12/+12/+61
+
+---------
+Moves:
+---------
+crLK: 10f
+stLK: 12f
+stLP: 12f
+crLP: 13f
+f dash: 17f
+crMP: 20f
+stMK: 20f
+stMP: 21f
+crMK: 25f
+v-skill: 29f
+LK low xx v-skill: 30f
+MP straight xx v-skill: 31f
+stHP: 32f
+stHK: 33f
+crHP: 34f
+crHK/LP straight: 35f
+MP straight: 37f
+lk screw: 39f
+v-skill+p: 40f
+v-skill+k: 49f
+
+==================================
+___________MATCHUPS_______________
+==================================
+This is where it gets really tricky.  Matchups come a lot with personal experience and overall mindsets when playing the game (despite the tier matchup list, some people can often have better personal matchups and worse personal matchups against what tier lists say), although there are plenty of tips I could give you on each individual matchup.  However it would take me forever to go into each individual matchup and what to do.  Just know that if you're struggling at all with any matchups, just talk about it in the #matchup_discussion channel in the Balrog discord.  There's also good matchup tech right now listed in the channels below that in the discord as well.
+
+
+That's all I got, I hope all this helped!  Feel free to message me or anyone else in the Balrog discord for questions or concerns, or if there's something you don't understand in this homework don't hesitate to ask me and I can clarify.
+
+-Ronilo

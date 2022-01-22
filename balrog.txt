@@ -1,0 +1,342 @@
+Balrog notes (as of 2/21/2021)
+Ft: Sestze, JoJo, and CrossedMoon
+
+At a Glance:
+- Anti airs: 
+	- st. mp
+	- cr. hp (can only crush on first 2 active frames)
+- Hit Confirms:
+	- st. hk, cr. mp xx b, f+mk
+	- st. mk, st.mp xx srk.mk
+	- cr. lk, cr. lp, st. lp xx b, f+lp
+- Poke:
+	- st. hp (long range)
+	- st. hk (mid range)
+	- cr. mp (mid range)
+	- st. mp (counterpoke, very strong now that it forces standing)
+	- st. mk (counterpoke, whiffpunish with this)
+	- cr. mk (low, stomp follow-up is unsafe on block, use to catch people walking away from you)
+	- all dash-straight specials. master correct spacing to avoid being punished.
+
+- Punish:
+	- cr. hp xx hk.smash, lp.dash-straight (heavy punishable, not ccable)
+	- st. hk (crush counter), hk.smash, lp.dash-straight (cc punish)
+	- lk xx mk xx hk (3f punish)
+
+Character Specific Mechanic:
+
+	Served From The Front	- Balrog has no crossup. Jumping over your opponent with Balrog isn't worth it.
+
+	Coast to Coast		- By nature of his moveset, Balrog can naturally carry his opponent across the screen and into the corner.
+
+	Flexible V-master	- There really isn't a wrong answer for which options to pick as your go-to.
+
+Normals:
+
+st. lp	(4/5/3)		- long range 4f light, good frame advantage on hit/block
+st. mp	(5/2/0) 	- excellent anti-air button. Forces standing now!
+st. hp	(12/0/-3) 	- Knockdown CC button, great range, decent footsie button, long recovery (19f)
+st. lk	(3/2/1) 	- 3f check option, goes into his lmh target combo
+st. mk	(6/5/2) 	- counterpoke button, special cancellable
+st. hk	(9/7/3) 	- a big, chunky CC button (spin) with plus frames to spare, long recovery on whiff (22f)
+
+cr. lp	(4/4/3) 	- native tick throw button
+cr. mp	(6/4/2) 	- counterpoke button, buffer button
+cr. hp	(8/-1/-5) 	- launching CC button, forces stand, good for heavy punishes and frametrapping
+cr. lk	(4/4/1) 	- Low starter
+cr. mk	(7/2/-2) 	- leads into the 2x stomp attack, and a good low medium poke. Good vt activation button
+cr. hk	(8/D/-14) 	- Fast start-up sweep with decent range
+
+j. lp	(-/-/-) 	- good hitbox to beat out low hitting anti-air buttons
+j. mp	(-/-/-) 	- amazing air to air button
+j. hp	(-/-/-) 	- horizontal hitbox
+j. lk	(-/-/-) 	- can instant overhead the opponent
+j. mk	(-/-/-) 	- far-reaching jump-in
+j. hk	(-/-/-) 	- deep diagonal heavy jump-in attack, hard to anti-air.
+
+Anti-Airs:
+
+st. mp			- great anti-air, fast start-up, covers most jump-in options can struggle against cross ups
+cr. hp			- a slower anti-air option which deals with cross ups. can only crush on first 2 active frames.
+srk+mk			- used to catch neutral jumps at dash-straight range, can result in a trade or juggle combo.
+j. lk			- jump back j. lk can be used against crossups
+
+Target Combos:
+
+st. mk xx st. mp	- Launching target combo... used mainly to go into vskills.
+st. mk xx st. mp xx vs1 xx p or k	- into overhead/punch
+st. mk xx st. mp xx vs2			- or into a KKB charge
+
+st. lk xx st. mk xx st. hk	- 3f startup target combo, Balrog's 3f defensive option. unsafe on block.
+
+cr. mk xx cr. mk		- balrog's low starter for v-trigger activations, nerfed severely in season 2 or 2.5
+				- -7 OB, -2 when canceled into v-triggers. cancel from just cr.mk instead.
+
+Specials:
+
+vs1	mp+mk		- KKB
+			- A spin that passes through fireballs, can be cancelled into two possible finishers
+				- p finish, a straight attack, +2 on hit, -4 on block, leaves you close enough to 50-50 with a throw or low.
+				- k finish, an overhead strike, +5 on hit, -7 on block.
+			- Can cancel rush punch, rush low and TAP into KKB, allowing for mid-string mixups and optimal oki
+			- Great for VT Activation 
+
+vs2	mp+mk		- FFB
+			- An install that empowers Balrog's next rush punch attack.
+			- Empowered rush punches hit thrice, are plus on block (+2), and float the opponent
+			- Empowered rush punches remove the charge timing restriction, allowing for instant rush punches off of b, f+p.
+			- Can be cancelled into off of screw smash (srk+k), allowing balrog to get VS2 on deck after certain BnBs at the cost of oki.
+
+v-rev	f+ppp		- Buffalo Headbutt
+			- 17f v-reversal, knocks down, -2 on block.
+
+rush punch, b, f+p	- Dash Straight
+			- Balrog dashes across the screen and punches his opponent in the face.
+			- Important to master using this at max-range as a poke, so that it cannot be punished.
+			- Unmetered:
+				- LP: +2 oh, -4 ob, starts up fastest.
+				- MP: +2 oh, -4 ob
+				- HP: +2 oh, -4 ob, starts up slowest.
+				- Empowered, +2 on block.
+				- Can be canceled at any time before the strike into VS1.
+			- Metered:
+				- EX: Knocks down on hit, +1 on block.
+				- VS2 Empowered, +4 on block.
+				- Can be cancelled at any time before the second strike into VS1 to start mixups
+			- Startup frames are shaved off if you're point blank with the opponent
+				- LP (12f to 10f), MP (16f to 12f), HP (25f to 19f), EX (22f to 9f)
+			- Can be timed to be meaty to get additional plus-frames on hit, in addition to being able to follow up on counterhit dash-straights
+
+rush low, b, f+k	- Dash Grand Blow
+			- Balrog dashes across the screen and punches them in the shins
+			- Also important to master the max-range so you can't be punished		
+			- Low attack, results in a knockdown
+			- Unmetered:
+				- Startup depends on strength, all knock down and are -7 on block
+			- Metered:
+				- Knocks down, -2 on block
+			- Startup frames are shaved off if you're point blank with the opponent
+
+smash	srk+k		- Screw Smash
+			- Balrog performs a forward moving uppercut attack that launches the opponent
+			- Unmetered:
+				- Whiffs on crouching opponents
+				- Strength determines startup, and launch height
+				- HK launches high enough for several followups
+				- -10 on block for lk and mk, -13 for hk
+			- Metered: 
+				- EX Screw smash starts up in 12f, hits crouching opponents, and has armor from frames 3 to 16.
+				- Monstrously unsafe at -17
+
+TAP	2p/k		- Turn-Around Punch
+			- Chargable move that passes through fireballs
+			- Charge determines damage, frame advantage on hit, and invincibilites
+			- Since TAP's nerfs back in s2.5, not a lot of people use this for its intended purpose, as vs1 usually serves the same purpose
+			- Sometimes used a sort-of enhanced "dash" by cancelling it into vs1.
+			- Used as a part of some optimal crush counter confirm combos (cc cr.hp, TAP, mp.dash straight)
+
+CA	qcfx2+p		- Gigaton Blow
+			- 8f startup
+			- 1-10f full invincible, 11-13f projectile+throw invincible, 14-17f projectile invincible.
+			- Passes through the opponent when mid-screen, resulting in a sideswitch.
+			- Only a single hit, making his CA punishes against opponents that perform ex reversals incredibly damaging. Also great for chip-kills.
+
+Hitconfirms:
+(0 bar)
+(any 0-bar combo ending in rush punch can be empowered with vs2, and followed by a lp rush punch)
+
+cr. lk, cr. lp, st. lp xx b, f+lp			(134/294)
+cr. lk, cr. lp, st. lp xx srk+lk			(141/294) (standing only)
+
+st. mk, st. mp xx b, f+mk				(195/310)
+st. mk, st. mp xx b, f+mp				(203/310)
+st. mk, st. mp xx srk+mk				(203/310) (standing only) (st.mp forces standing now)
+
+st. mk, st. lk xx st. mk xx st. hk			(168/289) (no charge required, point blank)
+
+st. hk, cr. mp xx b, f+mk				(206/360)
+st. hk, cr. mp xx b, f+mp				(214/360)
+st. hk, cr. mp xx srk+mk				(214/360) (standing only)
+
+st. hk, st. mk xx st. mp xx vs1 xx p			(208/388) (no charge required, point blank)
+st. hk, st. mk xx st. mp xx vs1 xx k			(208/388) (no charge required, point blank)
+st. hk, st. mk xx st. mp xx vs2				(166/304) (no charge required, point blank, FFB charge)
+
+cr. hp xx srk+hk, b, f+lp				(252/405) (punish, raw jump-in combo)
+
+(1 bar)
+(any 0 bar ending in lp or mp rush punch can be replaced by an ex rush punch for additional damage, 90/100 to 150!)
+(any 0 bar ending in lk or mk rush low can be replaced by an ex rush low for additional damage, 80/90 to 140!)
+(any ex rush punch combo can be converted into vs1 into lk xx mk xx hk tc)
+(any 0-bar combo ending in rush punch can be empowered with vs2, and followed by an ex rush punch)
+
+cr. lk, cr. lp xx st. lp xx b, f+pp 					(176/329)
+cr. lk, cr. lp xx st. lp xx b, f+pp (first hit) xx vs1, lk xx mk xx hk	(193/341) (requires vs1, harder to execute, more damage/oki)
+
+cr. hp xx srk+hk, b, f+kk						(292/445) (punish, raw jump-in combo, excellent damage and oki)
+
+(2 bar)
+cr.hp xx srk+hk, b, f+pp (first hit) xx vs1 + p, b, f+pp	(376/515) (disgusting corner-carry and damage)
+cr.hp xx srk+hk, b, f+pp (vs2 empowered), b, f+pp		(413/521) (disgusting-er)			
+
+(3 bar)
+(any 0-bar ending in a rush punch/screw smash can be cancelled into CA)
+
+Punishes:
+(3f)
+lk xx mk xx hk						(122/213)
+
+(4f)
+st. lp, st. mp xx srk.mk				(173/280) (point-blank)
+cr. lk, st. lp xx b, f+lp				(119/253)
+cr. lk, st. lp xx srk.lk				(127/253) (standing only)
+
+(5f)
+st. mp xx srk.mk					(160/235)
+
+(6f)
+st. mk, st. mp xx srk.mk				(203/310)
+cr. mp xx b, f+mk        				(141/235) (longer range than st. mk or st. mp)
+
+(8f)
+cr. hp xx srk+hk, b, f+lp				(252/405)
+
+(CC)
+cr. hp (cc), TAP (level 1), b, f+mp			(258/405) (start charging as soon as you hit cr. hp, release as soon as cr. hp recovers. Great corner carry. Inconsistent in the corner)
+cr. hp (cc), srk+hk, b, f+mp				(258/405) (less corner carry, better oki, inconsistent in the corner)
+st. hk (cc), f.dash, st. mk, st. mp xx srk.mk		(253/420) (point blank, also useful for mid-screen CC conversions)
+st .hk (cc), srk+hk, b, f+lp				(239/405) (works at max st.hk range)
+st. hk (cc), b, f+hp					(184/300) (even further out, if you catch a limb, for example)
+
+(N.J)
+n.j hk, cr. hp xx srk+hk, b, f+lp			(314/510)
+
+Frametraps:
+- cr. lp and cr. mp are balrog's native tick throw buttons
+
+cr. lp, cr. lp, st. lp					(beats 3f options, actual hitstring)
+cr. lp, st. mk, st. lp					(beats 3f options, converts on cr. lp ch or st. mk hit)
+cr. lp, st. mk, cr. mp					(beats 3f options, converts on st. mk ch into cr. mp)
+
+cr. lp, cr. lp, cr. hp					(CC fish with cr. hp, 3f/4f gap after second cr. lp)
+cr. lk, cr. lp, cr. hp					(similar, but starts with a low)
+
+cr. lp, st. lp, st. hk					(CC fish again, 6f gap after st. lp)
+cr. lk, cr. lp, st. hk					(similar, but starts with a low)
+
+Okizeme (against QR):
+- Balrog's dash is 17f
+
+b, f+pp		(+33)
+
+b, f+lk		(+20)
+b, f+mk		(+20)
+b, f+hk		(+20)
+b, f+kk		(+22)
+
+srk+lk		(+27)
+srk+mk		(+30)
+srk+hk		(+36)
+srk+kk		(+31)
+
+lk xx mk xx hk	(+30)
+
+cr. hk		(+22)
+
+fthrow		(+15)
+bthrow		(+12)
+
+(vs2)
+b, f+lp		(+41)
+b, f+mp		(+41)
+b, f+hp		(+41)
+b, f+pp		(+42)
+
+(vt1)
+b, f+p xx f+k				(+34)
+b, f+p xx f+k xx f+k			(+36)
+b, f+p xx f+k xx f+k xx f+k		(+36)
+b, f+p xx f+k xx f+k xx f+k xx f+k	(+33)
+b, f+p xx f+k xx f+k xx f+k xx f+p	(+26)
+
+b, f+k xx f+p				(+33)
+-- there's a lot of these, you might have to find and calculate your own optimal oki from a string you like to use.
+-- Not to mention, the knockdown information all changes when vs2 empowers these as well.
+
+(vt2)
+hp+hk		(+12)
+
+(situations)
+st. hk, st. mk xx st. mp xx vs1		(+38)
+st. hk, st. mk xx st. mp xx vs1 xx p	(+35)
+st. hk, st. mk xx st. mp xx vs1 xx k	(+11)
+st. hk, st. mk xx st. mp xx vs2		(+9)
+
+cr. hp xx srk+hk, b,f+lp		(+27)
+	- too far to get anything outside of the corner by dashing (further than 1 dash away)
+	- but, meaty max-range lk.dash-low is possible mid-screen
+cr. hp xx srk+hk, b,f+pp		(+33)
+	- too far to get anything outside of the corner (further than 1 dash away)
+	- but, lk.dash-low kara-cancelled into vs1 on its earliest frame leaves you closer and +2
+
+VT1:		Crazy Rush
+		- 3 bar v-trigger
+		- Activation is an install
+		- The first of Balrog's robbery v-triggers
+		- Allows balrog to cancel his rush punches/lows/smashes into followup rush punches/smashes
+			- Up to 4 rekkas in a row.
+			- Can be used to make all moves safe
+			- f+p performs a followup straight
+				- less damage, more stun, keeps opponent grounded
+				- -2 on block universally, -13 for final attack.
+			- f+k performs a followup smash
+				- more damage, launches opponent, better spacing
+				- universally -2 on block, -21 for final attack.
+		- Can be cancelled into KKB (vs1) at any time into an overhead, punch, or nothing into throw/low
+		- Results in strings with multiple standing mixups
+		- Due to VT scaling, you will want to perform a standing reset somewhere in your string to reset the hit count and mix your opponent up.
+		- An incredibly creative vtrigger, lots of options for mixups and damage. I can't begin to give you optimal routes, these will require external research or experimentation.
+
+Activation Routes: (oh/ob)
+	cr. hk			(D/+6)
+	cr. mk			(+13/+9)
+	ex rush punch		(+9/+4)
+	ex rush low		(D/+5)
+	vs1 xx k		(+19/+7)
+	vs1 xx p		(+17/+11)
+Example combo:
+	cr. mk xx vt1, cr. hp xx srk+hk, b, f+p xx f+k xx f+k xx f+k	(271/415) (see how the scaling sucks?)
+		
+VT2:		No Mercy
+		- 2 bar v-trigger
+		- Activation is an install
+		- Gives balrog a command grab off of hp+hk that can be combo'd into
+			- cancels from any cancellable normal and cr. mk xx cr. mk as well as lk xx mk
+			- 7f startup, knocks down
+			- a staggering +350 stun if it connects
+			- allows for command grab loops in the corner
+		- vs2 empowered ex rush punches leave balrog close enough (and plus enough) to tick into this command grab.
+
+Activation Routes:
+	same as vt1
+
+Example Combo:
+	cr. mk xx vt2, cr. mk xx cr. mk xx hp+hk			(226/393)
+
+External Resources:
+- Brian_F's videos on Balrog go into more depth with specific punish types, he's also a fantastic Balrog player to learn from
+	- Balrog Season 4 Changes: https://www.youtube.com/watch?v=kZiRCfIf7vM
+	- Balrog Season 5 Changes: https://www.youtube.com/watch?v=DSCgutfYGls
+	- Balrog VS2 Corner Carry: https://www.youtube.com/watch?v=68PoU8mZr5I
+- Brian_F is a GM balrog player, an entertaining streamer, and an all around swell guy. (Evening streamer)
+	- https://www.twitch.tv/brian_f
+- AbJitz is a GM balrog player, another great streamer, and runs coaching sessions. (Late night, SEA times)
+	- https://www.twitch.tv/ABJitz
+- The Balrog Discord has a pile of resources on combos, okizeme, spacing, match ups and other topics
+	- https://discord.gg/CTBM4d4
+- Ronilos original Balrogs Boxer Basics guide to playing balrog:
+	- https://www.youtube.com/playlist?list=PLhsYAAzxzd_YoDcNLbzaGeRevf-FKoiPB
+- CrossedMoons remaster of Balrogs Boxer Basics
+	- https://www.youtube.com/playlist?list=PLTtsO8KjCA1sFqABKqeIPL8x9K_59xhPP
+- The Balrog General Guide
+	- https://docs.google.com/document/d/14EF7TYCcYYaTmVwmKIEeS2jDHEb860ryPCr4fIdDOvc/edit?usp=sharing

@@ -1,0 +1,799 @@
+Video 1: https://www.youtube.com/watch?v=54r63jHNEvA
+
+- Defensiva Basica: Abaixado
+- Cuidado com defesas específicas
+- Hesen-ha: crlp
+- Hit mérito próprio: neutro
+- Fundamentos do jogo
+- CrMP ou StMK com throw
+- Não é preciso ficar com charge o tempo todo
+- CR.MP, ST.MP, CR.MP pra ganhar espaço na pressão
+- fazer o oponente não saber quando fazer os dashs punch
+- Ver outros estilos (Smug, Nightmare Effect, Nero)
+- Não tem problema tomar o Grab, defesa abaixada sempre
+- "Fazer os caras se matarem"
+
+-------------------------------------------------------------
+Camp 28-05
+
+Match 1: 4DD69B0DF
+Match 2: 4DD69BA45
+Match 3: 4DD69C04F
+
+
+Feedbacks do Next
+- Andar mais pra frente
+- Proposição de jogo
+- Cuidado com cMP > sHP
+- Usar um poucos mais EX Straight
+- 3f para interromper string, meaty
+- dash, pode-se contestar com jab (jab jab straight ou jab jab ex low)
+
+-------------------------------------------------------------
+
+Minhas Observações
+
+Round 1 - Match 1
+ - Manter defesa abaixada por mais tempo
+ - Round ganho por drop de combo da Karin
+ - Usos que julgo interessantes do vshift pra resetar o jogo, porém só valeram pq o que veio depois não tinha nada com o dash
+ - Baits de dash punch da Karin não funcionaram
+Round 2 - Match 1
+ - Falta de Quick Rise
+ - Não gastar as barras nos light confirms
+ - Corner Pressure dificultando o game (não saber se vinha agarrão ou botão: delay tech talvez ajudasse?)
+Round 3 - Match 1
+ - Acho que uso de VT + CA não foi boa combinação, perdi pressão de jogadas sem recurso nenhum enquanto a Karin tinha o VT mais CA
+ - Andando muito para trás (medo de apertar maybe)
+
+--------------------------------
+Video 2: https://www.youtube.com/watch?v=STtBwtQjSaY
+
+31-05
+
+Coisa crucial: adaptabilidade
+Grab em Meaty; possibilidade na minha defesa que devo tomar cuidado
+Frequencia de Execução: manter qualidade na execução o tempo todo
+Alternar baseado em uma execução base (pegar um combo base e variar) - Precisão de Input
+
+"Aprender a Aprender"
+
+Oki: Vantagem +18
+
+Ideia: Counter Hit Random para treino de Crush Counter
+
+
+---------------------------
+Lateralidade
+Dp
+	P/ Direita --> Frente, Baixo, Frente
+	p/ Esquerda --> Dupla Diagonal
+VT + CA
+	P/ Direita --> Analogico Thumbstick
+	P/ Esquerda --> Mudar para D-PAD no meio do combo para Fazer o CA no D-pad
+
+-----------------------------
+Delay Tech
+- Stream Vini (06/06 - 4h15) - usar tecnica 1-2 (contar rapidamente mentalmente e sequenciar o input) (primeiro para tras (1) e depois o agarrão (2) ainda segurando para trás)
+	https://www.twitch.tv/videos/1048122850?filter=archives&sort=time (4:19 macete de tempo)
+- preciso pegar o timing pra treinar certo
+- Shimmy: vence delay tech
+
+----------------------------
+Opções defensivas
+- Just DEFENSE
+- defesa e backjump
+- defesa e backjump com jab
+- backdash (cuidado com botões)
+- delaytech (cuidado com shymmi)
+- vshift
+
+-------------------------------------------------
+Video 3: https://www.youtube.com/watch?v=vxsmluxqspo
+
+14/06
+
+
+- Defesa um pouco melhor
+- Jogo ainda ta meio flow
+- Dependencia de Dash Punch
+- Movimentação meio fraca
+
+
+-----
+Pontos para trabalhar nessa semana
+
+- movimentação (tentar algumas matchs sem dash punch maybe?)
+- combos, tentar acostumar com a reação (evitar dependencia de botoões)
+----------------------------------------------------------------------------------------
+Video 4: https://www.youtube.com/watch?v=yklEjGHsG3Y
+
+29/06 
+Pontos a trabalhar
+
+Agressividade
+	Arriscar algumas coisas para identificar comportamento (as vezes, vale a pena tomar o ex dp)
+Anti aereo
+	Ficar atento e on point nas situações para poder exercer a pressão
+
+-------------------------------------------------
+Video 5: https://youtu.be/L4DgXkwmLXA
+
+05/07
+
+Pontos a trabalhar
+Range
+	Preciso aprender a ficar mais no range de efetividade do Balrog (range dos botões como stMK) para exercer pressão de ataque
+Defesa
+	Manter calma em situações de suposto risco (VSHIFT no desespero, analisar V-Reversal, Backrise always)
+Pontos positivos
+	Movimentação: mesmo na match de derrota analisada, deu pra perceber uma melhora
+
+FOCO DA SEMANA
+	TREINO DE AA (Ver exemplos de dummies reproduzindo ações random para diminuir previsibilidade)
+	AGRESSIVIDADE: TENTAR SE MANTER NO RANGE DOS BOTÕES DO ROG PARA VER COMO SERÁ
+	CONSISTENCIA: MANTER CONSISTENCIA NOS COMBOS
+	PRESSÃO DE CORNER: EXECUTAR ALGUMAS PRESSÕES
+	DEFESA: KEEP CALM AND ANALYZE YOUR DEFENSE
+	ANDAR PRA FRENTE*
+	NÃO PRECISAR AFASTAR ALL TIME PRA DASH PUNCH
+	STHK - BOTÃO DE FRAMETRAP
+
+
+Jogos 10/07
+	Alguns games consegui uma consistencia de pressão
+	ERROS DE INPUT DA ESQUERDA PRA DIREITA tiraram concentração nas matches
+	Conhecimento de algumas matches (até que ponto vale parar talvez o treino pra dar uma lida em algumas matches como bison, cody e honda?)
+Jogos 11/07
+	Controlar impulso (consegui a vantagem de turno, ir pra cima igual uma carreta)
+	Rankeds tenho conseguido manter no gold (jogando acabo caindo pro prata, mas retornando e conseguindo uma streak interessante).
+	Escolhas ruins de combo em algumas situações
+
+Pontos observados
+	Apesar de ainda falha, consegui montar algumas pressões de corner para tentar manter o turno...
+	Agressivar nos okis e anti aereos acabam entregando as infos que a gente precisa (match de kolin que o wakeup era sempre v-skill e chun li que pressionada sempre realizava SBK EX)
+	Preciso ainda melhorar meu gameplan quando acabo tomando um pulo (perco o controle da match facilmente e acabo perdendo rounds vantajosos)
+Curiosidade
+	Ferimento do dedo não cicatrizando todo e não permitindo deslizar
+	Como Entrar em uma defesa bem fechada numa match "ruim" de entrar? tipo zangief
+--------------------------------------
+Video 6: https://www.youtube.com/watch?v=s7xPdVT2Dx0
+	
+VSHIFT 1 OU 2X NO MAXIMO (EVITAR MASH)
+VER SOBRE NEGATIVE EDGE
+MEIA LUA + BOTÃO = PRESSIONAR O BOTÃO APENAS (VER LOGICA DE ARMAZENAMENTO DE INPUTS)
+M BISON = TESTAR 3F DEPOIS DE TODA TESOURA
+
+Pontos a trabalhar
+	Atenção a recursos (barras, stun, etc) (dica do Keoma: afastar e resetar um pouco o game para verificar)
+	evitar mash de inputs (vshift e jump)
+	Matchs de vs2: não tem problema utilizar o straight visto que fico -1
+	Elaborar knowledge sobre rog baseado no documento do discord
+
+Docs da semana
+	https://docs.google.com/document/d/1ntHChD_xlEQB86LwCbTdKT-ottUeIrBKuiiu3JcBr68/edit (Estrutura de treino)
+	https://docs.google.com/document/d/14EF7TYCcYYaTmVwmKIEeS2jDHEb860ryPCr4fIdDOvc/edit?usp=sharing (RogNation)
+
+-----------------------------------------
+Matches 16-07
+Vs Cammy (Replay Favoritado)
+OBS: Tava cansado pelo trampo (10h de trampo fora o sal)
+Pontos vistos
+	Não andar pra frente quando poderia (carregar vskill e dar uma olhada nos recursos)
+	Defesa relativamente ok para como eu estava no inicio do dia errando tudo
+	Não capitalizando em alguns crMP para straight
+	anotando de novo (evitar usar a mesma string crMP + stHP)
+	O punish de CC que consegui, consegui converter massivamente
+	DP da Cammy normal tem um pushback meio grande, fui fazer o punish normal com roundhouse e errei (desconhecimento, labei um pouco mas n consegui alguma conversao de CC, só ex punch).
+
+Vs Guile (Replay Favoritado)
+	Falta de paciencia joga contra
+	Consegui pensar em algumas alternativas pra abrir a defesa (dash low xx vskill + K, crLP, crLP, ex punch)
+
+Vs Zangief (Replay Favoritado)
+	Não ficar spammando o load da vs2
+	Jogar na distancia do stHP para ir pokeando
+	Não sabia que o running grab Ex tinha armor kkk
+	pressão da vs2 ajuda a dar knockdown e carregar novamente
+	acabei não usando o vt nem v-reversal
+
+Vs Zangief 2 (Replay Favoritado)
+	Não ficar spammando o load da vs2
+	Jogar na distancia do stHP para ir pokeando
+	Entreguei tela e não abusei da vs2 quando podia
+	ainda não ta decorado 100% quando é cada pilão
+	tomei alguns pilões que acho que eram os fracos
+
+Afobação/Ansiedade (efeito do medicamento maybe intensificando com a minha ansiedade normal)
+Cansaço as fuck
+
+--------------
+19/07
+
+Vídeo 7: https://www.youtube.com/watch?v=Okvs4XgaoSo
+
+Numeros magicos: +2 e +3
+Frame traps: crMP como botão para iniciar a pressão (melhor botão, porém não usar sempre pra diversificar)
+Ver Charge Partioning e Impossible Charge
+Impossible Charge (Player: Desk)
+Counter de Delay Tech: crLP + stHK ou crLP + back micro walk + crMP
+
+Coisas durante semana pra aprender
+	Punição de Delay Tech (crLP + stHK ou crLP + back micro walk + crMP)
+	Continuar aprendendo a jogar pra frente
+	APRENDER DELAY TECH!!!
+	Procurar ficar calmo e analisar o inimigo
+	Não apavorar na defesa.
+	Ver frametraps de crMP e algumas de stMK para colocar no jogo
+
+Match 1: 20-07 (4DEF5AAF9)
+Derrota, porém quis testar delay tech em uma chance que tive no primeiro round. acredito que tenha acertado pelo timing
+
+Match 2: 20-07 (4DEF5AE40)
+Vitória, consegui estabelecer uma pressão ofensiva, e vendo o replay, vi que ela tentou agarrar (delay tech maybe?)
+
+Match 3: 20-07 (4DEF5B123)
+Derrota no detalhe (me atrapalhei nos dive, pq sempre acho que da pra contestar)
+Perdi pq esqueci de usar o vt2 no fim, mas curti a match no geral		
+
+------------------------------------
+
+Highlights da semana
+	- Treino de delay tech: comecei a usar uma tip que peguei na stream do diddykv (vini) para sequenciar o input contando e acertando um pouco mais a medida que vou treinando
+	- Usei em algumas ocasiões (uma casual contra millia que peguei pra testar traps e acabei em uma situação de pressão contra e pensei, pq n aqui? testei de deu certo acredito eu).
+	- O vício de crMP + stHP to perdendo pouco a pouco em algumas situações (joguei contra o caio no sabado depois de acordar e acho que nunca tomei tanto punish, mas fui melhorando ao longo das matches creio eu).
+	- Comecei até a usar esse vício a meu favor, pq achavam que eu ia fazer e eu conseguia adaptar os combos
+	- ainda to começando a colocar a ideia da potencia do VT, perco matches onde erro o processo de ativação onhit, mas é algo que vou comecei a treinar ao longo do tempo
+	- Pergunta sobre apertação de botão, como "punir" isso, fico com o feeling que a apertação do botão o timing encaixa e não consigo fazer algo contra.
+	- Matches contra "high levels" dando pra perceber uma diferença absurda (movimentação e shimmy bagunçando minha ideia de range). Porém consegui perceber algumas coisas no jogo que consegui em alguns casos punir (como vskill pra trocar stance + pet) como vshift depois do AA.
+	- Inclusive, acho que fiquei com "receio" após ver que todos os movimentos são punidos com facilidade (faltou me soltar).
+	- Ainda tirei 4 games, então fair por enquanto.
+	- Reconhecer quando o golpe entra em "recovery" pra conseguir punir, as vezes vejo que perco tempo nisso
+
+----------------------------
+Vídeo 8: () 
+
+Treinar delaytech com fireball (ritmar botão no blockstun)
+plano de jogo: independente do oponente, como lidar com as variaveis.
+	conjunto de movimentos e propriedades/funções
+capitalizar o chute forte em crush
+defesa estatica: 
+	estar ativamente esperando e se movimentando para não sofrer pressão adversaria
+	constante movimento
+
+-----------------------------
+Ver framedrop: https://www.reddit.com/r/StreetFighter/comments/8vg9he/random_frame_drops_in_sfv/
+
+Otimizei tudo mas ainda perco frames, kinda weird
+
+Dificil trabalhar nas movimentações, ainda não tenho segurança de me movimentar e reagir ao ataque pra retornar a defesa. Aos poucos vo pegando a manha com matches mais lentas (exemplo da match de poison). porém em matches aceleradas é dificil manter o pacing.
+
+Super gold, porém com esse ponto de movimentação ainda vejo que vai variar o ranking, não é algo consolidado 100%
+
+Não sei se é pelo de pegar nas casuais (domingo 01/08) mas vejo que a galera do super/ultra levanta apertando 3f sem dó...meaty ajuda...porém como timar isso corretamente? estava tentando pelo som do personagem quando ele levanta, porém n tava achando uma consistencia.
+
+Linha de jogo dos outros bonecos começou a ficar consistente (a ter um padrão): ex: Vega só fica dando soco medio mesmo e só ataca quando algo encaixa?
+
+Comecei a pegar alguns casos onde o reset do VT1 tava sendo interrompido por mash de 3f...acha que já vale a pena aprender outros usos do VT por agora?
+
+Rollback salga mt, vc acha que acertou e do nada ta tomando a punição '-'
+
+Uma coisa que vi na live do Paulin sobre condicionar o oponente a apertar...how?
+
+1 lv a mais e percebi que a galera ja faz muito mais shimmy do que antes.
+
+Reaction time: acho que algo que vou ter que trabalhar ao longo do tempo
+
+Parar de fazer CA no wakeup aaaaaa
+
+
+------------
+
+Video 9 (09/08) (https://www.youtube.com/watch?v=uSK-oZGYJBA)
+
+Counter EX DP toma 20% mais de dano
+framekill - só funciona pra hard knock down (VER FAT para ver a vantagem positiva)
+Tirar vicio de vshift
+treinar hit confirm com 2 hits (usando 2 jabs) e com som (olho fechado maybe)?
+Usar os jabs por ser o que mais vai acontecer nas matches num contexto geral
+usar depois a conversao em target combo
+
+DESAFIO: DEPOIS DE UM DP EX DP AKUMA, DAR UM CHUTE MEDIO PARA DAR SIDE SWITCH E COMBO FULL (VALENDO PREMIO).
+
+13/08 - Replays das matches salvas
+Movimentação precaria (cansaço do trampo e meu controle parecendo estranho)
+Match complicada contra Karin (cara tinha 86% de winrate com ela no casual, achei estranho)
+Player era mt bom com whiff punish
+precisei me adaptar por não estar com mobilidade em dia
+consegui perceber o padrão de mash de botão no reset do VT, até consegui um jab (que podia ter virado CA porém não consegui reagir e não sei se seria bom) e um botão médio
+Ganhar de ex-fodase passa um feeling que com a movimentação travada é mais complicado de vencer essas matches
+consegui confirmar algumas coisas
+no Orochi que eu fico +2, Microwalk e grab é uma opção valida?
+
+
+Resumo 23/08
+ - Camp de teste apesar dos pesares foi bem legal. consegui, apesar de não serem os bonecos principais, tirar uma match de grandmaster (fernandes) e depois conversando com ele na stream até comentou que o meu jogo era legal;
+ - Ter que arrumar o controle e não estar acostumado com ele "novo" me tiltou hard no FDS, apesar de ter conseguido "lucrar" pontos no fim do dia (winrate ainda não ta consistente, pois não sei a hora de parar e faço lose streak grande e depois que acalmo, faço uma winstreak grande);
+ - Em matches quando não se tá "confortavel" (por conhecimento do boneco) como match de akira e o senshubu...como "se adaptar" ingame? eu usei a abordagem de ficar um pouco mais longe (fora do range) e vir de straight com vs2, pra ganhar vantagem e tela, porém não sei se é a melhor abordagem (nem sei se vs2 era a melhor escolha diga-se de passagem). Tinha perdido a primeira ft2, depois deixei uma incompleta (1-1) e fui testar coisas mais tarde, mas nada com muita exatidão (Só com 3f e target combo tava tendo uma ideia).
+ - Tentando melhorar na observação do jogo de pé, pra pegar espaçamento errado/whiffs (Hard demais concentrar pra fazer isso). Treinando/Apanhando com o Caio ta ajudando bastante nisso e pra tirar alguns vícios de jogo.
+ - Criando mecanismos pra lembrar os okies, fiz um readme com marcações em negrito pra deixar aberto no segundo monitor e ficar vendo enquanto jogo.
+ - Uso de VT1 em quem não conhece a framedata tem um retorno bem grande, mas sendo arriscado. Contra quem conhece, comecei a ver algumas coisas pra fazer algo mais safe (vs1+P e podendo ir pra grab ou crLK e re-combar) pra ser uma opção de acordo com observação.
+ - Em uma FT mirror, um rog usando em mim dash low cancelado em empty(no neutro mesmo), pra poder usar grab...e achei interessante de poder colocar no jogo pra uma aproximação repentina. Gostei dos resultados a medida que foi aperfeiçoando, pois usei a "ideia de grab" mas podendo ter o overhead pra extender o combo.
+ 
+ Replays Akira: (W) 4DFE7159A
+				(L) 4DFE70F1F
+---------------------------
+Video 10 (23/08) (Link: https://youtu.be/mtoYXCtUjuI)
+
+- Tryhardar em lab contra as matches que tenho dificuldade para não ter de jogar "lame"
+
+v reversal 17, 12 e movimentação
+movimentação: nash e fang
+17: rog e akira
+12: cortar ataques fortes e medios
+
+se pega no primeiro frame ativo, soma o resto dos ativos no recovery
+- labar sobre v-reversal
+- resumo: só dar vreversal se der pra ver o adversario apertando botão, para tentar acertar (se for apenas na ativação não vai acontecer o empurrão).
+
+- baixo medio e dash ex sao as melhores ativações de VT1
+- espaçar pra dash punch não é boa sempre com vs2
+- presença de tela
+- jogar safe demais nem sempre é bom
+
+60fps != 60hz
+freesync + 144hz + vsync (tanto faz)
+
+Ver video sobre footsies: https://youtu.be/ZVrxin4OYuE
+
+30-08 - Labar Karin para matar a millia na proxima segunda
+
+SELF-CHALLENGER: Usar botões durante os 15 primeiros segundos do round (pra evitar straights e usos de barra random).
+
+------------------------------------------------
+Video 11 (06/09) (Link: https://youtu.be/HZfUu7N6Opc)
+
+28/08
+- Analisando como eu to fazendo os inputs em alguns momentos, vejo que "to mudando a forma do input" e gerando erros
+- FTs com Mly foram bem legais para praticar a matchup em si, que to testando alguns pontos que dificulta meu game, mas colocar em pratica o que passo um tempo treinando, como os confirms e combos de VT1 (acertei um combo com 3 resets diferentes que foi bem legal)
+- Defesa ficando "fria"/consolidada, consegui algumas vezes sobreviver ao tengu stone, tomando no máximo 2 agarrões.
+- Ultra gold atingido, e apesar de as vezes não consegui controlar o impeto do adversario, vejo que consigo impor mais meu jogo
+- Lista de techs e conteudos
+	Delay tech
+	AA
+	Combos
+	Frametraps
+	Okies
+	Shimmy
+	OS
+	Buffer
+- Joguei FT10 a primeira vez, e é cansativo pakas
+
+Matches c/ Keoma (31/08): anotei alguns pontos pela sua fala kkk
+- Medio e Medio em counter (Desde quando tu sabe isso?): fiquei um tempo labando a um tempo atrás os botões, pegando em counter ou não...e vi que medio linka em medio...então sempre que vejo pegar e consigo "reagir" ao counter, eu tento seguir pra low e tal.
+- Combo do CA: durante a animação eu percebi que não era a melhor opção, pois tu tava proximo do stun
+- Straight em overhead: (EM MIM TÚLIO?): é algo que é possibilidade e uso algumas vezes. Tem o funcionamento, porém em quem conheçe do game não pega da maneira que eu tava usando (meio previsivel talvez).
+- Block que to comentou que foi bom, até gelei pra defender o cross.
+- o sweep que eu dei ignora, que meu cerebro deu uma desligada.
+- Um ponto legal que tu comentou, é que não ia para o grab, quando tu tava no corner. Não tava conseguindo pensar um jeito de abrir a sua defesa ali...pq numa das matches eu tentei o grab e tu deu tech...então achei que já era uma opção coberta (talvez tick throw fosse opção)
+- Algumas conversões de VT acabei dropando, talvez por ansiedade de jogar contigo (e não achar tão facilmente os espaços).
+- Vi que tava whiffando coisas que na atual divisão não faz taanto impacto, mas é um deficit do meu jogo que pode melhorar.
+- Preciso estar com a rota de combo na cabeça e não titubear para qual eu quero fazer (por 2x "mudei" a ideia na cabeça e me atrapalhei).
+- Tava tentando me adaptar a um range pra jogar a match ali também, e senti que os medios abaixados (crMK e crMP) eram interessantes (o stomp inclusive acho que acabei apertando rapido).
+- Uso de barras foi horrivel, tava focando muito em movimentar e manter a luta de um modo mais de chão, e esqueci completamente delas.
+
+-------------------------------------------------------
+Aprender a como lidar com delay tech sendo eu o atacante
+- Gravar Kage dando grab em reversal e adicionar 5 frames de delay (wakeup)
+- Gravar Kage dando grab em reversal e adicionar 4 frames de delay (depois de defender)
+
+Sinais de delay tech
+- Aparando todos os grab
+- Defendendo todos os meaties
+
+Testar dash e backdash pra tentar ler o delay tech
+
+Delay tech ofensivo: Proteger do dp invencivel
+Sincronizar no wakeup do adversario, e executar o delay tech nesse momento (adicionar 5frames também)
+
+IMPORTANTE PARA PUNIÇÕES: Pushback + abertura da guarda: dica de abertura de blockstun (Braço do Rog abaixado = blockstun terminando, pushback terminou, blockstun terminando)
+Frametraps e tick throws são boas saidas para pressão em corner
+
+Grab meaty: 5f + janela para tech (6f) = 11f
+throw meaty: 11f a partir d
+
+Anotar tempo de delay tech (Testar no Mly, pois segundo o keoma ele faz muito. Aparentemente é 4f o timing dele)
+
+6f depois de completamente recuperado
+
+Dica vs Keoma: delay entre 5 ou 6 (explorar isso de alguma maneira)
+Vc esta acertando um grab de startup 10
+
+*testar - smash forte > dash e dash > chute forte*
+
+- Uso de barra, muda ritmo da match, utilizar disso como um fator de analise do game
+- Proximo hit stun ou kill, alta probabilidade de subir no DP para cortar o momento
+- Abertura de distancia: esperando straight
+
+Anotações da aula KEOMA
+- Trap de espaçamento: apesar de negativo, vc acha que pode apertar um botão com muito startup e é pego. No rog pode ser dash low e medio (isso pode pescar botões)
+- Stun não reseta scaling de dano
+- Numa pressão de kill, jogar com mais calma, analisar as opções e permitir-se arriscar
+- Meaty grab vence delay tech? (Acredito que sim, pois como irá acontecer o delay para depois rolar o startup, vai pegar)
+- Numa situação de grab perfeito em meaty (5 frames de startup + 6 de janela de tech) o delay tech de 6f conseguiria realizar tech throw
+
+O delay tech, interagindo com o grab, entra uma equação onde dependendo do atraso colocado pelo player + 5 frames de startup, condiciona um botão a pegar
+	Ex: No video com o Keoma, colocamos o delay tech para acontecer no sexto frame. A partir desse momento, é executado o tech que tem 5 frames de startup (6 + 5 = 11). Nessa janela do sexto ao decimo primeiro frame, qualquer coisa pode atingir o player. Usamos o exemplo com o chute forte (que tem 9f de startup). Fazendo imediatamente após a recuperação do boneco, já começa a contar o startup do golpe. Quando no sexto frame, começar o startup do tech, o chute forte falta 3 frames para terminar. No nono/decimo frame o chute forte vai pegar, pois o tech ainda está no seu startup.
+	
+Rasteira forte > dash > churte forte também cobre esse cenario, pois após a (rasteira + dash) eu estou +5. Se o player executar um delay de 6f, eu preciso realizar um delay de 5f no meu chute forte de modo que o startup do botão irá começar jundo delay do adversario (após ele voltar para a posição de defesa, seria esperado 6f e ai 5f de startup do grab). Ou seja...Rasteira --> dash --> 5f de delay -- chute forte irá pegar no terceiro frame de startup do grab (https://youtu.be/HZfUu7N6Opc?t=3332). 
+
+
+Possibilidades de identificar se o cara está dando delay tech...se eu atraso um pouco o meu grab, eu consigo saber se o oponente está fazendo o delay tech cedo demais, pois será eu quem estará fazendo tech..a partir disso, eu posso tentar ir para um meaty de 6f que irá pegar (pois 2f de delay + 5f do startup do grab = 7f).
+
+
+Inserir coisas no game
+*Melhora Mecanica*
+*Meaty Delay*
+*Delay tech ofensivo*
+*Shimmy*
+Jigglin (Smash como AA para pulos neutros)
+----------------------------------------------------------------------------------------------
+Video 12 (Link: https://www.youtube.com/watch?v=x4KGtIfais0)
+- Começar a usar crlk, target de medio
+- Shimmy: tentativa de realizar a melhor forma: ir e voltar, ou se der, um dash e voltar. Acho que depende de qual punição se quer fazer
+- Tentando pensar em maneiras de condicionar o oponente a realizar grabs...preciso força-los a realizar techs, de maneira que poderei shyma-los.
+- Delay button: busca de maneiras de criar um setup (com exemplo do sweep que vimos no ultimo video)
+	* Dash Low ex: mesma framedata do sweep
+	* Ex Straight (no corner): +33 de vantagem > vskill vazia (-29) > fico +4 de maneira que conseguiria pegar um delay tech.
+	
+(15-08)	
+Series contra Mly (10-6 e 5-2)
+	* Tentando colocar em pratica as ideias que to treinando (Delay Button e Shimmy principalmente)
+	* Adaptação tendo que ser gerada pela quantidade de CC (Até achei que era mais ocorrencias de delay button, porém era pegando mash)
+	* Match 8 (4E097CAD7): Fiquei na duvida se foi a ideia de delay button, ou um crush pegou outra coisa (tipo o jab) (No input monstra um jab e um tech, porém fiquei nessa dúvida)
+	* Em alguma outra match eu tava tentando condicionar ele para realizar o shimmy, porém acabo optando sempre por pressionar, por causa dos bons botões.
+	
+(17-08)
+- Lobby com Mly e Next
+	* Após mudança de personagem (para Kolin), fomos jogar alguns lobbies 4-Fun
+		** Percebi que ainda não sei 100% o range onde devo jogar e onde devo apertar (a lot of crush counter)
+		** Existe alguma ideia da visualização que facilite a percepção do range dos botões?
+		
+- Shimmy ainda cada vez consigo executar melhor, porém preciso parar de pressionar igual um maluco quando consigo por no corner.
+
+* Linha Imaginaria: Saber até onde vai poke range (Tanto do adversario quanto o meu) -> Tracar uma linha imaginaria, se passar dessa linha, aperto
+* Shimmy: throw range faz diferença (a distancia que mantenho pra um alex não será a mesma para um kage)
+* [COISA A MELHORAR] Presença de tela: distanciamento do boneco acaba entregando o que eu quero fazer. Não jogar na range: 
+* Condicionamento: 
+
+- Dash depois do straight onblock
+- (straight + baixo soco forte + dp forte)
+- Fazer vshift no dropkick da mika para puni-la (ver outros cenarios para punição)
+- moonsault ex da pra punir no vshift
+- frete chute fraco é negativo perto
+- fazer o adversario trabalhar pelo dano (hit and run, hold your ground para aprender o neutro) - aprender a conquistar o hit
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Video 13 (https://www.youtube.com/watch?v=BZnWOTLtK3o)
+
+https://youtu.be/XS78JV4_f9w?t=540 - ciclo do jogo neutro
+oki-waza - preemptive buttons
+ate-waza - dash in, walk in & button
+sashi-kaeshi - waiting react & whiff punish
+
+FOCO NA SEMANA
+- jogar sem vshift para desacostumar com mecanica de comeback - aprender a jogar o neutro e não aproveitar da recompensa do hit
+- Treino de whiff punish: (https://youtu.be/u_7SOPU0H6c) teste no soco forte carregado do Gief
+
+
+- Consegui uma "maneira" de tentar fazer os whiffs punishers, baseado na ideia da linha, que é meio que "tirar o foco" dos personagens, e focalizar a visão em uma area, onde se uma parte do corpo do adversário entrar, eu consigo dar um whiff punish, porém dispendo muita energia pra fazer isso.
+- Video (Smug vs Child233): https://youtu.be/nmILsG9IFZQ Seria exemplo?
+	* setup de vt2 (target medio xx ativação xx stMK xx Straight forte)
+	* uso de "gimmick" de aproximação
+	* movimentação quase que apenas andando e aproveitando os hits
+
+Dica Keoma	
+- Primeiro knockdown: grab (para identificar se é delay ou apenas defesa)
+- Baitar a "certeza" que o crMK pegou, para forçar o oponente a dar tenko
+- Jogando longe demais devido ao neutro: jogar dentro do range para tirar o principal poke do boneco
+
+https://www.youtube.com/watch?v=8ZFOO7THnNs&t=242s (Kolin vs Rog)
+
+Thoughts
+- não consegui fazer o fds render no game, pq ficar virado é uma porr@
+- Jogar numa match desconfortavel é muito dificil
+- Lidando com shimmy: reação ao walk é a maneira correta? em algumas matches comecei a perceber a tendencia de shimmy e colocar crMK, para pegar no max range e evitar a "adivinhação"
+- Até quando vale sacrificar o dano por uma "vantagem"? ex: punição de ex hands com target e vs2 (sei que posso stMK xx smash (fracou o medio) xx vs2, porém ainda não incorporei no game)?
+- Como seria um "regime" de pratica do game neutro? A questão da imprevisibilidade do adversario dificulta a minha compreensão de pensar em um modelo de treino
+
+TIP: IDENTIFICAR O QUE EU ESTOU FAZENDO
+
+single hit confirm: abaixo de 15 na jalena de confirm, não fazer
+
+Rog não anda pra frente e perde o elemento surpresa
+Interpretar os momentos em que se quer pescar os whiff punisher
+mais do que chegar no range para poke
+entrar e sair do range para forçar uma apertada de botão
+
+sonic hurricane footies handbook
+
+Trap de espaçamento (elemento 2)
+logica de poke (estabelecer o ritmo para pokes, de maneira a induzir o oponente a pensar que irei utilizar aquele hit)
+
+Dano garantido x Dano esperado - Vale a pena de acordo com a minha analise
+https://sonichurricane.com/?page_id=1702 - Footsies handbook 101
+
+--------------------------------------------------DEVER DE CASA--------------------------------------------------
+(CHECK) VER COM KEOMA, GRAFICO DE SKILL E ANALISE DOS PONTOS FRACOS (CONFORME COMENTADO NA LIVE DO DIA 04/10) 
+REPLAYS DAS 3 MELHORES MATCHES DA MINHA VIDA (GANHANDO OU PERDENDO) PARA PREENCHIMENTO DA PLANILHA DE PERFORMANCE
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Video 14 (Link: https://www.youtube.com/watch?v=kLLoKE93JCI)
+
+- Tentar forçar nas matches treinar jogar mais neutro e whiff punishers gera uma frustração que preciso tirar da cabeça, pq a galera vai go nuts, e não consigo por a ideia que quero em jogo se não jogar o game "agressivamente". Uma duvida que fico é tipo...quero me expor as situações que venho treinando (pois no training é um ambiente controlado), porém it's justs nuts (sei que nem todo mundo quer praticar igual mas fica a ideia)....
+
+- A ideia de tentar resetar o game pro neutro ta fazendo eu ficar "weak" na defesa, é complicado tentar treinar algo novo e ainda manter o que já "tenho" no game on point, principalmente contra players agressivos.
+
+- Nos replays que salvei (Laura, mesmo tendo os EX Elbows muito negativos, tava muito tenso pq não faço mt bem essa match, porém consegui controlar um pouco melhor nessa match) tentei pegar onde consegui controlar o range do game de acordo com o que me sinto confortavel.
+
+- Pouco a pouco venho conseguindo colocar o smash como neutral AA no game e praticando a conversão (que tem um timing bem estranho) além da rota de VT1 partindo do chão pra rekka + P (pra cancel que também tem um timing estranho).
+
+- Alguns patterns de dashes tenho conseguido reconhecer um pouco melhor e contesta-los, que era uma das coisas que tinha dificuldade.
+
+------------------------------------------------------------------------------------------------
+Treinar contra Laura
+ter um gameplan contra ela
+
+identificar crMP xx Dash Low --> Pq as vezes sai smash
+parar de dar dash punch depois de hadouken
+
+Distancia e velocidade do hit para contestar o -2
+Ofensiva não passa medo
+Golpes ativos em meaty, testar punição
+saber reconhecer quando preciso do buff do vs2 e quando posso matar
+
+-------------------feedbacks da analise---------------------------------------------------------
+- Movimentação sem intenção
+- Oki ruim: varias as opções ofensivas para tirar a previsibilidade do ataque
+- Throw game: whatever
+- Pressão: linear
+- Forçar o oponente
+- Input super sujo
+- Desvios dos input: demora na execução (2 a 3x mais lento por precisão e velocidade)
+- Senso de Urgencia atrapalha no gerenciamento de recursos (jogar mais matches)
+- Spacing de tela: entrega muita tela para conseguir ter o straight e defensivamente me sentindo claustrofobico
+
+Pescar o que não existe (condicionamento inexistente)
+Coragem pra atacar
+- LIBERTAR  DA IDEIA DE CERTO E ERRADO
+- APRENDER A SER OFENSIVO
+
+*DEVER DE CASA*: VER REPLAYS DE PLAYERS DE ROG E VER COMO ELES EXECUTAM PRESSÃO OFENSIVA
+
+--------------------------------------------------------------------------
+Video 15 (Link: https://www.youtube.com/watch?v=xjo7p1Eu8pA)
+
+Tentativa de limpar os inputs: como faço o input "arrastando o dedo" do downback para foward, acontece de sair varias diagonais ali...estou vendo como da pra mudar e reparei que é possível tirar o dedo e apertar pra frente rapidamente (principalmente do lado player 1)...estou treinando para deixar ele mais limpo a partir dessa "descoberta" (16/10)
+
+Levantamento de alguns players de rog no BR e visualização de estilo de jogo e como atacam para formar a minha ideia de ofensiva (feito durante a semana)
+
+Porém realizar isso enferrujou a mecanica....vou estipular tempos cronometrados de treino dos principais combos para conseguir por a ideia de ofensiva em pratica.
+
+Como simular uma ação depois de AA no treino? queria validar algumas ações pois depois de stMP, tentar variar (sempre que faço dash e grab, tomo tech, então queria validar o que poderia ter de variações e etc).
+
+- uso de tick throw para manter a pressão no corner
+- ofensiva no corner sempre mantendo a distancia de 2 quadrados negros para marcação do jump (AA) e neutral jump (smash)
+- crMK para pokes
+- pokes com straight espaçado para incomodar o adversários
+- dash depois do AA e crMP para pegar algum botão (meaty) e conversão
+- botões como stMK e stHP após straights (onblock por exemplo) para marcação de espaços e pokes
+- uso da frametrap crLP > stMK para tentar pegar algum botão
+
+`crLP > crLP xx ex straight > medium straight xx vs > throw`
+- Essa sequencia funciona, pois após o straight medio cancelado...ficamos +2 na cara do oponente, caso ele levante de **QUICKRISE**. Dessa maneira podemos realizar um throw (que irá começar, devido a vantagem, em 3f). Como os throws vencem os botões pelo priority system, teremos mais uma ofensiva (podendo-se fazer um dash low meaty).
+
+- é correto usar "buffers" para confirmar frametraps? ex: crLP > stMP, acho que não tenho a reação suficiente para confirmar com motion + botão (a janela pelo FAT ta dando 16f), então uma ideia seria ja fazer a motion para só apertar o botão caso eu identifique que pegou.
+
+-------------------------------------------------------------
+Voadora fraca + grab => ajuda a burlar os timings de tech do oponente
++7 => grab não pega, pois não é possível grabar o oponente em blockstun ou hitstun
+possivel cancelar pre jump em cg
+
+- 4 frames de landing recovery
+- delay botão no ar: vencerá tech preemptive em voadora
+- tech preemptivo na voadora: vence cross errado e empty jump (low ou grab)
+- bagunçar timings: chute fraco aereo para bagunçar os tmings + chute forte em pé para tentar pegar delay tech
+
+Gravação de Setups de Treino
+Gravação de ideias para conseguir explorar meus AA (especialmente o stMP)
+Passos:
+1 - Gravar Pulo Neutro + Pulo Frontal
+	1.1 - Após executar essa parte, esperar um pouco defendendo abaixado (tendo uma gordura de tempo que será utilizada posteriormente).
+2 - Ativar a execução desse setup e testar o AA
+	2.1 - Identificar após quanto tempo (em qual timing) o dummy irá aterrisar no chão
+3 - Gravar Pulo Neutro + Pulo Frontal + Esperar até o timing identificado nos passos anteriores + realizar o tech throw
+	3.1 - Dessa maneira, é possível elaborar uma situação existente ingame e suas possibilidades
+
+----------------------------------------------------------------------------
+Video 16 (Link: https://www.youtube.com/watch?v=Cfw5cJRg8e4)
+
+Muita coisa pra assimilar no jogo, porém com pouco tempo que tenho de treino as vezes por semana, quero focar em varias coisas mas sinto que não to focando em nenhuma
+- Entre as coisas que a gente apontou na avaliação, o que faria mais sentido focar primeiro (julguei que seria melhorar meus meaties mas não sei se seria correto)
+Treino de Execuções de meaties e aproveitamento de oki
+- Ex Straight xx straight medio vs > crLK > crLP > straight
+- uso de mais smashes (stMK > stMP > medium smash)
+- Delay tech ofensivo: jogando contra o Zeus, tive a sensação que a cabeçada ex do Urien tem um tempo de contato um pouco maior do que outros wakeups invenciveis (Ken e Karin por exemplo). É impressão ou realmente tem essa diferença no tempo de wakeup? E se sim, não teria como normalizar o meu timing pra delay tech ofensivo ne?
+
+- Delay tech ofensivo contra `Rashid` (Reversal 8f - Melhor DP do jogo inteiro - atacar o boneco é um 50/50): 
+  - Timar manualmente porém abre brecha pro Rashid fazer qualquer coisa no wakeup dele (apertar, grab, HK e VT e etc.). Como a execução do delay precisa ser feita "manualmente" para ou tentar dar grab ou algum meaty, o Rashid se torna o boneco que tem um jogo de wakeup muito bom (Não é possivel executar uma pressão timada corretamente)
+  - Delay tech ofensivo no Rashid: guessing que não tomarei grab ou botão
+
+`CONCEITO INTERESSANTE PARA BONECOS UNGA (MIXUP DE DISTANCIA 0) - VER DEPOIS`
+
+
+- Safe Jump: voadora entra em contato com o oponente porém que da tempo de se defender caso aconteça um reversal.
+  - Setup de treino: acertar a voadora o mais tarde possível e conseguir cair defendendo. Porém é preciso realizar o resto do combo via reação (caso realize esse delay no jump, precisarei reagir para ver se o oponente tomou e continuar)
+
+"A very well-timed jump attack on a character who is rising from a knockdown. Your goal is to attack extremely close to when you land so that, if the character performs an invincible reversal attack, you will land and be able to block. The opponent is then forced to block your jumping attack, since reversaling doesn't work, which will give you some nice pressure and hopefully an opening."
+
+"A safe jump is an option select; with the same set of inputs, you can both attack your opponent and block if they reversal. Pretty useful! The inner workings of a safe jump rely on how much recovery you have when you land from a jumping attack. In most games, it's pretty small, so as long as you have less recovery than the startup of your opponent's reversal move, you can make it to the ground and block in time. Some games have extremely fast reversal attacks though, so if you try to safe jump those with standard methods, you'll just get smoked. Because your attack has to be so well-timed for this to work, it's really hard to just do a safe jump randomly. That's why most people have setups for them so they work consistently."
+
+Exemplos
+https://youtu.be/Cfw5cJRg8e4?t=1057 (smash forte e pulo neutro com HK)
+
+OBS: Em testes de Safe Jump consegui fazer funcionar só nos seguintes cenários
+- Smash forte e jump
+- BNB com 2 barras (smash forte > ex straight > vskill p > ex straight pegando nas pernas > jump)
+- sweep
+- *Aparentemente existe um setup de V-reversal com jump que funciona.
+
+[TREINO]: COLOCAR URIEN LEVANTANDO EX DP QUICKRISE
+
+Exemplo:  https://glossary.infil.net/?t=Safe%20Jump
+
+- Safe meaty: atacar de maneira segura mesmo em situações onde o wakeup dp pode vir (a ideia é fazer um golpe normal que se recupera antes do startup do wakeup do oponente, a tempo de se defender.).
+  - Exemplo (Headbutt Urien): O Headbutt EX do Urien tem um Startup de 12 frames. Em um setup onde o Balrog fica +2...Eu poderia executar um butão (crLP ou stLP por exmeplo) ou até uma string. Mas eu posso executar esse botão se ele se recupera igual ou mais rapido do que o startup do Urien. ou seja crLP ao todo tem 14 frames (13 de acordo com a formula), porém como estou com vantagem de +2, esse numero se transforma em 12 (11 de acordo com a formula). A partir disso, posso executar uma string (frametrap com stMK ou tick throw se o oponente não executar nada) que ainda estou safe e ainda punir o wakeup dp dele.
+  - IMPORTANTE NA SEQUENCIA: É NÃO MASHAR NA SEQUENCIA.
+
+  - crLP > throw (tick throw)
+  - crLP > stMK (frame trap e sequencia)
+  - crLP > stMK (defendendo o wakeup)
+
+Exemplo da execução de Safe Meaty: https://youtu.be/Cfw5cJRg8e4?t=1011
+[TREINO]: COLOCAR URIEN LEVANTANDO EX DP QUICKRISE
+
+- Chain Cancel: ataques fracos que cancelam neles mesmos ou no proprio tipo.
+- Hit Freeze: golpes em contato com oponente geram uma especia de atraso, que permite que voce por exemplo, veja que o golpe pegou e assim consiga realizar o combo. 
+- OS com Hit Freezez: Com as opções mostradas no treino (https://youtu.be/Cfw5cJRg8e4?t=1485) é possivel realizar inputs ritmados de modo que, caso não ocorra o hit freeze em um jumpin por exemplo, ocorre um vshift (ação que só ira ocorrer pois o hit não aconteceu e cobriu a opção desse hit não ocorrer)
+- OS com jab e Hit Freeze: jab e dash
+
+# `Total de frames de um golpe (SAR -1) = (Startup + Active + Recovery -1)`
+
+# DP - HITBOX
+QUALQUER INPUT PRA FRENTE
+QUALQUER INPUT PRA BAIXO
+QUALQUER INPUT PRA FRENTE
+
+--------------------------------------------------------------
+Video 17: https://www.youtube.com/watch?v=Sj3nFMnSW6I
+
+- Apesar de suspeitar da resposta, não custa perguntar: contra oponentes que "bufferam" muitas coisas, apenas não "whiffe" ne? Tenho por "bad habit" deixar botões depois de straights que "julgo espaçados" porém tava sendo pego em buffers.
+
+- Jogando contra o Zeus e o espelho, não sei se tava tendo a abordagem certa na match, mas tive percepção que quando eu jogava com a ideia de sufocar ele (ainda mais proximo do VT) tava surtindo mais efeito. A ideia que tava tendo era oprimir e explodir no jogo com throws e meaties de um jeito que ele n ia conseguir fazer as rotas padrões de ativação. Comecei a abordar assim pois tava evitando cair em buffers como citei.
+
+4E27B0262
+4E27B005C
+
+- Consegui "forçar" algumas situações de safe jump, que foram respeitadas nos wakeups (não teve um wakeup ex depois que eu fazia o combo que me deixava fazer o safe jump)
+
+- Força a perder o charge da cabeçada
+
+- Aprendendo a hitbox, tu seguindo tudo com a idei de ritmo (os famosos pah...pah) e parece que a ideia do controle em si é essa.
+- Se tiver alguma dica sobre adaptação do controle inclusive.
+
+duas ou 3 maneiras
+- Espaçar para ele whiffar
+- Apertar algo que chegue (startup do botão)
+- forçar o contato para o buffer ser executado on block e punir.
+
+
+- Quando usar shift: leitura de ataque fisico
+- vshift break: da tempo de ver o botão que o adversario está 
+
+Playstyle: Jobber (parado tentando parecer: transpirar confiança porém com medo)
+
+*Treinar* Throw Meaty:
+*Treinar* whiffar jabs para ludibriar os usuarios
+	- Testar reação natural do oponente e tira-lo da zona de conforto de estar esperando algo
+
+--------------------------------------------------------------
+Video 18: https://youtu.be/w_6iIDxWUP8
+
+- Jogando as FTs semanais, na match contra o Paulo, apesar de ter sido 5x1, ele comentou que joguei o neutro "direitinho", porém não consigo fazer essa auto analise de que meu jogo tá bom o suficiente ainda (não sei se pode ser excesso de auto cobrança)
+
+Paulo_Messatsu (5) vs Luftzera (1) - 5 barras
+MATCH 1: 4E2B83558
+MATCH 2: 4E2B83A9B
+MATCH 3: 4E2B83F69
+MATCH 4: 4E2B84398
+MATCH 5: 4E2B8465E
+MATCH 6: 4E2B84A0A
+
+- Em compensação, jogando contra a Millia (mesmo que 4fun) consegui travar o jogo (apesar de input drops by hitbox) que acho que foi o jogo mais clean
+
+- Nas FTs também, não sei se to levando "a serio demais" mas começo a ficar ansioso com vantagem na mão e perco HEUEHUEHEU
+
+- adaptabilidade em FTs: o que é considerado para uma "adaptabilidade"? Vejo que gira muito em conhecimento dos bonecos (saber as frametraps e etc, porém sem ter o conhecimento numérico da coisa, da receio de descobrir)
+  - Muitas vezes o conhecimento prévio ajuda, porém sinto que seria uma especie de "gimmick" de conhecimento, a partir do momento que a info se torna useless, bagunça os timings.
+
+- Alguns baits de Buffers apenas andaram pra frente funcionam legal, só precisa de cuidado
+
+- Jogar com diferença de "elo" e experiencia: até quanto é "agregador"? Joguei umas matches com o CNN que achei que tive um comportamento até legal, mas lembro de ja ter comentado algo sobre em algumas analises de replay da galera e tals.
+
+- Proatividade
+- Falta de ofensividade
+- Movimentação correta porém sem um foco específico
+- EXDP xx VT: negativo
+- Tentar aliar agressividade com precisão. Se o oponente não teme sua ofensiva ele não tem motivo para guessing.
+- Imposição de jogo: deixar o oponente andar pra frente e eu andar pra trás não trás a imposição de jogo, visto que o Balrog é um personagem ofensivo
+- Em ferramentas para whiff punish, vale a pena utilizar buffers (stMK xx straight por exemplo)
+
+--------------------------------------------------------------
+Video 19: Link (https://youtu.be/op0ts7_Cb7Q)
+
+- Tentativa de pensar o jogo como literalmente uma luta de boxe
+  - o momento de estudo onde tenta ver como funciona a defesa
+  - ataque "explosivo" quando necessario
+  - Um pouco de mais uso de throws para forçar guessings principalmente no corner
+  - DUVIDA: Existe casos onde "Sweep" é utilizavel? jogando contra o Jaeh, ele utiliza muito e comentou que ele usa pra checar dashes, mas por ser super unsafe, acho que é uma tentativa arriscada demais.
+  - DUVIDA: Eu reparo que tem muitos momentos que players de mais nível (tu e bea por exemplo), utilizam-se de interrupções das sequencias dos personagens, mas sem um "reconhecimento" de informação (as vezes em primeiro round ou algo assim). é questão de spacing ou outro fator?
+    - Comecei a prestar um pouco mais de atenção nos straights e vejo que é possivel conseguir alguns hits, talvez com buffer
+  - Começar a aplicar o footsies handbook e o tutorial do juicebox faz muito sentido. Um tópico que uso pra drivar a match faz virar a abordagem completamente.
+    - Em uma match estava tomando muito whiff punish em straight e simplesmente comecei a andar pra frente. Nessa hora o adversario começou a desesperar e ai pude colocar o jogo.
+	- Meu Meaty não é tão "bom" quanto eu imaginava: comecei a enfrentar alguns adversarios da liga gold, e eu errando o meaty (sempre acabo indo para os meaties de botões medios, porém em backrise, acabam "whiffando"). 
+	    - Começar a treinar os patterns de wakeup dos bonecos para escolher corretamente.
+  - Tenho uma ideia de jogo, porém o matchmaking do jogo me parece que no geral é cheio de "gimmick" e coisa forçada, onde não me parece (pelo menos no elo atual) o melhor lugar pra exercitar
+    - Tenho a ideia de pegar pelo menos Diamond, pois algumas poucas partidas que joguei, "me pareceu" algo melhor pra praticar. Além de tentar conhecer mais gente pra praticar em saguões.
+    - Ideia: cutucar os adversarios com straights espaçados e ao coloca-los no corner, identificar os padrões que usam para sair desse corner e cercar
+	  - Para isso, to treinando os meaties bem onpoint para os knockdowns, eu pelo menos manter a vantagem e não tomar algum tipo de counter
+  - Melhorar situações de observação dos oponentes
+
+ Interrupções: o quão "apertada" as strings são. Saber 
+ timing do dash do bison: se eu reagir no inicio da animação: stHK mas o ideal é bater no fim da animação (crMP)
+ Blockstring acaba meio rapido por causa do pushback
+ stagger: movimento de trancar a movimentação do oponente
+ straight ex > jab > wait > dash (pode-ser para whiff punish quanto o throw)
+ ataques ao mesmo tempo, porém com framedata de hitstun diferente
+
+ IDEIA Treino definitivo de meaty: gravar 2 slots de defesa diferentes de Claw: cada slot com os 2 tipos de v-reversal do Claw: TENTAR ACERTAR O MEATY, COM A JANELA DE 1F (Ver setup em video)
+ IDEIA: PUNIR VREVERSALS COM THROW: ATIVAR O VT E VER QUANDO POSSO DAR THROW (BASEADO NA FRAME ADVANTAGE)
+
+* SEPARAR MELHORES REPLAYS DA SEMANA PARA AVALIAÇÃO PROXIMA SEMANA
+
+--------------
+VIDEO 20: Link (https://youtu.be/akN9PjWSCR4)
+
+- ver como proceder com straight no vt com VREVERSALS
+	- Como sempre vejo que na sequencia oB usam bastante vreversal, estava pensando em algumas coisas de como proceder nessas situações
+		- a unica "maneira" mesmo é evitar desperdiçar o timer e tentar baitar o v-reversal ou com o straight normal ou com botões.
+- Replays: Estranho tentar separar pois o feeling é de que foi muita coisa eu punindo as afobações e "jeitos alternativos" de jogar, do que conquistando o hit em si.
+- Otimização de punições: vendo os replays até mesmo em vitórias, vejo que algumas punições estão completamente erradas (o que faz a minha saída de dano ser relativamente baixa). Vou tirar um tempo pra ver a Framedata de cada boneco e montar uma lista pra ir memorizando.
+
+Replays
+4E3BCCA7F - Mika Diamante
+4E3BCCFA0 - Mika Diamante
+
+4E3D63130 - Not Pedro (Juri) (1x0)
+4E3D6395E - Not Pedro (Juri) (2x1)
+
+4E3E358FD - Zeus
+4E3E3810C - Zeus
+
+No momentum, manter a pressão, afastar depois (devido ao loop de combate)
+Saber dar continuidade ao gameplan
+Mental stack
+Personagem em ataque: primeiro plano
+
+TC (fraco, medio, forte) xx VT --> o que fazer
+
+Shimmy: Não é totalmente RAW Reaction; Bufferar o input
+
