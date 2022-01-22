@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="assets/sfvce-logo.png">
-
 # Motivação
 A ideia é criar um documento para cada boneco com algumas coisas básicas para jogar contra como:
 - Framedatas negativas que não se pode deixar passar
