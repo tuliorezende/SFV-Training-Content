@@ -3,8 +3,10 @@ A ideia é criar um documento para cada boneco com algumas coisas básicas para 
 - Framedatas negativas que não se pode deixar passar
 - Algumas pressões classicas
 
-# Characters
+# Importante
+- Apesar dos movimento serem negativos, é importante ter em mente que nem todos os personagens irão punir, então vale o treino de acordo com o personagem utilizado.
 
+# Characters
 * [Abigail](Abigail.md)
 * [Akira](Akira.md)
 * [Akuma]()
