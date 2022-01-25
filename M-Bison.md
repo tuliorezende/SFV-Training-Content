@@ -1,4 +1,24 @@
 # M.Bison
+
+### Observações
+- A framedata abaixo está de acordo com o [FAT](https://fullmeter.com/fatonline/#/framedata/SFV/M.Bison){:target="_blank"}
+
+# Moves Negativos "Puniveis"
+- stHP: **-6**
+- crHP: **-11**
+- Slide: **varia de -12 a -3, dependendo da distância.**
+- stMP > df+HP: **-8**
+- LK Scissors: **-4**
+- MK Scissors: **-3**
+- HK Scissors![alt text](/assets/theconversation.svg){:height="50%" width="50%"} **-2**
+- EX Scissors: **1**
+- LP Inferno: **-12**
+- MP Inferno: **-11**
+- HP Inferno: **-10**
+
+
+
+# Coisas para se atentar
 - Joelhada dele (tras chute forte) é -3 (jab talvez pegue).
 - Tesoura fraca é -4.
 - Tesoura media é -3.
