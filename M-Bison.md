@@ -11,11 +11,12 @@
 - LK Scissors: **-4** (💡)
 - MK Scissors: **-3** (💡)
 - EX Scissors: **1**
-- LP Inferno: **-12**
-- MP Inferno: **-11**
-- HP Inferno: **-10**
+- LP Inferno: **-12** (💡💡)
+- MP Inferno: **-11** (💡💡)
+- HP Inferno: **-10** (💡💡)
 
 💡: As scissors do Bison podem ser espaçadas, de modo que não se tenha uma punição clara
+💡💡: Inferno também pode ser "espaçado" então nem sempre a punição no caso do Rog será a máxima. Porém punições a partir de crMP ou LP straight/EX straight podem ser uteis aqui.
 
 # Moves negativos "Contestáveis"
 - stLK: **-2**
@@ -26,17 +27,41 @@
 - HK Scissors: **-3**
 
 # Coisas para se atentar
-- Joelhada dele (tras chute forte) é -3 (jab talvez pegue).
+- Stomp: em caso de defesa do primeiro hit, uma ideia é executar um air-to-air para cortar o avanço (testar LK)
+- Throw mid screen: full screen longe dele, dependendo da situação, apenas aceite
+
+### Axe
+- Axe: como o movimento é +1 e bastante utilizado, algumas sequenciaas
+  - Axe > crMP: frametrap 3f
+  - Axe > stLK: a partir daqui o Bison pode ir para  Blast e Scissor
+    - L/M Blast: TAP vence depois de stLK em reversal
+    - L Scissors: essa alternativa pode ser  utilizada para terminar a sequencia, porém deve-se ter atenção para punir com stLP
+  - Axe espaçado: aqui stLK dele pode não chegar, então pode-se testar interrupção com 3f
+    - stMK: pode-se testar algo para cortar o bully dele
+
+### stHK (+3) (Testar opções)
+- Botão usado para estender pressão com os frames positivos
+- Uma dica que pode ser interessante é o **Backdash**
+  - Algumas sequencias  serão "interrompidas" e outras (como axe) whiffarão, o que pode gerar alguma ofensiva
+    - crMP: whiffa
+    - Axe: whiffa
+    - stHP: whiffa
+    - stMK, stMP: air reset (Com Bison -14)[Exemplo aqui](https://youtu.be/ll93PCXBlCs?list=PLTtsO8KjCA1uIyIsUvbocAFE7O2F-cfN_&t=624){:target="_blank"}
+    - Target: whiffa (-14)
+
+### VS2
+- Joelhada a partir de um teleport para as costas
+  - botões fracos ou médios para cortar como opção segura. Ficar atento ao momento que o personagem virar
+
+### HP xx Inferno xx Psycho Chrusher
+- Nessa sequencia, o hit irá pegar em crossup. Testar o que da para fazer depois
+
+### Organizar depois
 - Tesoura ex é +1.
 - Usualmente nunca é usado no seco, é seguido de um botão
 - soco forte + inferno é interrompível: (baixo soco medio xx dash low)
 - devil reverse ex deixa o bison +8
-- psycho axe é +1
-- axe + stLK + ball pode ser respondida com TAP depois de stLK
-- axe + crMP do bison: podemos tentar apertar o 3f depois do axe
-- chute forte do bison: testar backdashes, pois os demais followups, no máximo irão te render um hit, porém com air reset
-- chute forte xx target: caso de air reset, ele ficará -14. [Exemplo aqui](https://youtu.be/ll93PCXBlCs?list=PLTtsO8KjCA1uIyIsUvbocAFE7O2F-cfN_&t=624){:target="_blank"}
-- Trás Soco Forte dele é -6 (Labar combo de Trás Soco forte e  Bolinha EX).
+- stHP -6 (Labar combo de Trás Soco forte e Bolinha EX).
 - Testar 3f depois psycho ex.
 - CPU PULA NEUTRO PSYCHO EX E MEDIO AGACHADO (GAP DE 5F AQUI ENTRE O EX E O MEDIO);
 
