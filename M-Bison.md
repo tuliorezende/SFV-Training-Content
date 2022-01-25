@@ -10,7 +10,7 @@
 - stMP > df+HP: **-8**
 - LK Scissors: **-4**
 - MK Scissors: **-3**
-- HK Scissors![alt text](/assets/theconversation.svg){:height="50%" width="50%"} **-2**
+- HK Scissors :information_source: : **-2**
 - EX Scissors: **1**
 - LP Inferno: **-12**
 - MP Inferno: **-11**
