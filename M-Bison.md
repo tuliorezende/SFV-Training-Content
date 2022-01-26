@@ -53,8 +53,17 @@
 - Joelhada a partir de um teleport para as costas
   - botões fracos ou médios para cortar como opção segura. Ficar atento ao momento que o personagem virar
 
+### stHP xx HP Inferno
+- Aqui existe um GAP de 4f pois o M.Bison só pode cancelar os Infernos a partir do segundo frame (Ver lógica de [Blockstuns e Cancels](./index.md#blockstuns-e-cancels)). A partir disso, de Balrog é possivel
+- stLK (3F)
+- Empty VS1 seguido de Full punish (crHP xx heavy smash)
+- VS1 + K
+- Apenas o HP Inferno tem essas nuances, pois os outros infernos deixam em true blockstring (LP Inferno) ou tem 1F de gap (MP Inferno)
+
 ### HP xx Inferno xx Psycho Chrusher
-- Nessa sequencia, o hit irá pegar em crossup. Testar o que da para fazer depois
+- Nessa sequencia, o hit irá pegar em **crossup**. Aqui o oponente ficará -8F. De Balrog pode-se fazer algumas coisas, **porém vai depender da distância!**
+  - Sweep (8F de startup)
+  - CA em reversal (8f de startup)
 
 ### Organizar depois
 - Tesoura ex é +1.
