@@ -32,7 +32,7 @@
 
 ### Axe
 - Axe: como o movimento é +1 e bastante utilizado, algumas sequenciaas
-  - Axe > crMP: frametrap 3f
+  - Axe > stLP: frametrap 3f
   - Axe > stLK: a partir daqui o Bison pode ir para  Blast e Scissor
     - L/M Blast: TAP vence depois de stLK em reversal
     - L Scissors: essa alternativa pode ser  utilizada para terminar a sequencia, porém deve-se ter atenção para punir com stLP
