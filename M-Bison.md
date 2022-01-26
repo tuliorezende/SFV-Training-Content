@@ -60,6 +60,12 @@
 - VS1 + K
 - Apenas o HP Inferno tem essas nuances, pois os outros infernos deixam em true blockstring (LP Inferno) ou tem 1F de gap (MP Inferno)
 
+### stHP xx HP Blast
+- Segue a mesma ideia de interrupção do tópico anterior, porém como a recuperação do HP Blast é 14 (comparado aos 31 do HP Inferno), nem todas as punições serão as mesmas, no caso de uso da VS1.
+- stLK
+- Empty VS1 (aqui pode-se tentar apenas um throw)
+- VS1+K
+
 ### HP xx Inferno xx Psycho Chrusher
 - Nessa sequencia, o hit irá pegar em **crossup**. Aqui o oponente ficará -8F. De Balrog pode-se fazer algumas coisas, **porém vai depender da distância!**
   - Sweep (8F de startup)
