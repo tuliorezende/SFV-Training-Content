@@ -32,7 +32,7 @@ onde:
 * [Blanka]()
 * [Cammy]()
 * [Charlie Nash]()
-* [Chun-Li]()
+* [Chun-Li](Chun-li.md)
 * [Cody]()
 * [Dan](Dan.md)
 * [Dhalsim]()
