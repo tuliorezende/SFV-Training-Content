@@ -65,7 +65,7 @@ onde:
 * [Sagat]()
 * [Sakura]()
 * [Seth]()
-* [Urien]()
+* [Urien](Urien.md)
 * [Vega]()
 * [Zangief]()
 * [Zeku]()
