@@ -34,3 +34,6 @@
 Alternatively, if you meaty with a medium, you can try stmk target combo on reaction (or you can os time the stmk) as soon as he's behind you;
    - **crMK meaty**: se realizar o crMK em "meaty" e o FANG trocar de lado, existe tempo suficiente para realizar o crMK para o outro lado, e assim indo para target combo;
    - **straight autocorrect**: working...
+
+
+- Video de replay com exemplos: https://youtu.be/K_Z4O8VIoRo
