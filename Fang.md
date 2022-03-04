@@ -26,6 +26,7 @@
 ## Dicas do Boxer Discord
 - É possível interromper stHP xx HK Cloud com VS+P. **[Video](https://youtu.be/H9cYvUZUx7E0)**
     - **Funciona, porém é preciso ficar atento a espaçamentos do stHP pois a vskill+P pode ser pega no meio do hit**
+ - stLP xx Ex Straight: se o stHP for espaçado e cancelado em HK Cloud, é possivel realizar esse buffer paara puni-lo. **[Video](https://youtu.be/K_Z4O8VIoRo?t=91)**
 - crMP espaçado xx Ex Fireball pode ser punido com VS+K  **[Video](https://twitter.com/jav1ts/status/995377359795695617)**
     - **Funciona tanto vskill+P e vskill+K. Porém com o overhead é possivel realizar extensão dos combos**
 - LK e MK Smashes podem ser boas punições a clouds no neutral (Testar Situações) **[Video](https://gfycat.com/GloriousPreciousAfricanporcupine)**
