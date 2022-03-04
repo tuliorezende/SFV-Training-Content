@@ -15,7 +15,6 @@
 - LK Cloud: **-9**
 - MK Cloud: **-8**
 - HK Cloud: **-10**
-- 
 
 # Moves negativos "Contestáveis"
 - stHP: **-2**
