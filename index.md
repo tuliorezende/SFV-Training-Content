@@ -33,7 +33,7 @@ onde:
 * [Cammy]()
 * [Charlie Nash]()
 * [Chun-Li](Chun-li.md)
-* [Cody]()
+* [Cody](Cody.md)
 * [Dan](Dan.md)
 * [Dhalsim]()
 * [E. Honda]()
