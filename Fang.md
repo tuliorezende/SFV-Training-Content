@@ -35,5 +35,8 @@ Alternatively, if you meaty with a medium, you can try stmk target combo on reac
    - **crMK meaty**: se realizar o crMK em "meaty" e o FANG trocar de lado, existe tempo suficiente para realizar o crMK para o outro lado, e assim indo para target combo;
    - **straight autocorrect**: working...
 
-
 - Video de replay com exemplos: https://youtu.be/K_Z4O8VIoRo
+
+## Dicas HNK
+- Bicicleta é +1 oB. Vale a pena contestar com 3f, para "resetar" o jogo;
+- ryubenda: após uma string, Ryubenda pode ficar negativo o suficiente para ex Straight punir (mesmo longe o rog ainda cobre)
