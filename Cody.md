@@ -26,6 +26,34 @@ stLK do Cody é +3 on block, então o Cody pode ir para diversas vaariações e 
 - stLK > stHP > tornado ex
 - stLK > crMP
 
-# Situações de Oki
+## Situações de Oki
 ruffian ex > hammer kick > vs2: Cody tem vantagem
 ruffiam medio e dash: +2
+
+## Badspray
+Uma situação incomoda contra Cody é o badspray. Ele funciona como um botão de 3f (Apenas em quickrise), porém com priority system de botão forte. Logo algumas situações de Meaties de botões medios (dash low > dash [+3]) não funcionam corretamente contra ele. Algumas alterações podem ser feitas para garantir as conversões de meaties
+
+### Ex straight (+2)
+- botões fracos
+- stMP
+- throw
+
+### Ex straight (+4 - vskill raw)
+Aqui os botões médios funcionam devido a frame advantage
+
+### Dash low (+3)
+- botões fracos
+- stMP
+- throw
+
+### Dash low ex (+5)
+Aqui os botões médios funcionam devido a frame advantage
+
+### Target combo + framekill (+2)
+- botões fracos
+- throw
+
+### Target combo + framekill (crLK + crLP) (+3)
+- botões fracos
+- throw
+- stMP
