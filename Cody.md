@@ -57,3 +57,9 @@ Aqui os botões médios funcionam devido a frame advantage
 - botões fracos
 - throw
 - stMP
+
+## Punições  no VT2
+- Sweep xx Cano pra frente aparenta ter 3f de gap
+  - smash ex
+  - 3f
+  - [punições com vshift como mostrado pelo Boltstrike](https://twitter.com/Boltstrike_/status/1516882944153038850)
